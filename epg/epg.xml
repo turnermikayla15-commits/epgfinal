@@ -236,6 +236,10 @@
     <display-name lang="US">NBA TV USA</display-name>
     <icon src=""/>
   </channel>
+  <channel id="403682">
+    <display-name lang="US">FETV (Family Entertainment Television)</display-name>
+    <icon src=""/>
+  </channel>
   <channel id="403698">
     <display-name lang="US">Revolt TV</display-name>
     <icon src=""/>
@@ -66287,6 +66291,742 @@
   <programme channel="403640" start="20250910170000 +0000" stop="20250911000000 +0000">
     <title lang="zh">Modern Family</title>
     <desc>Phil cannot handle the stress when he tells Claire an elaborate lie; Gloria is tasked with organizing this year's family portrait; Jay covertly enters Stella in a dog show.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908003000 +0000" stop="20250908014500 +0000">
+    <title lang="zh">Laramie</title>
+    <desc>Jess is unwittingly riding shotgun on a payroll stage that has been rigged to wreck; after the robbery, Jess trails the bandits to Billings.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908014500 +0000" stop="20250908030000 +0000">
+    <title lang="zh">Laramie</title>
+    <desc>An ex-con from Slim's past shows up on the ranch, seeking assistance from Slim, who grudgingly agrees to help.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908030000 +0000" stop="20250908050000 +0000">
+    <title lang="zh">How I Spent My Summer Vacation</title>
+    <desc>Invited aboard a millionaire's (Peter Lawford) yacht, a young man (Robert Wagner) begins to suspect a conspiracy of murder.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908050000 +0000" stop="20250908054000 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>The officers face a gang of toughs who attempt to interfere in a narcotics arrest.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908054000 +0000" stop="20250908061500 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>Malloy is wounded and taken prisoner when he walks into a cafe where a robbery is in progress.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908061500 +0000" stop="20250908065000 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>Malloy and Reed receive directions from a helicopter during a high-speed chase.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908065000 +0000" stop="20250908072500 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>Mother Jefferson and Louise fight over George while at a funeral.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908072500 +0000" stop="20250908080000 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>A mysterious midnight call causes chaos in the Jefferson household.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908080000 +0000" stop="20250908091500 +0000">
+    <title lang="zh">Perry Mason</title>
+    <desc>Perry tracks down an unfaithful wife's killer; guests Jason Evers, Lloyd Bochner.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908091500 +0000" stop="20250908102500 +0000">
+    <title lang="zh">Emergency!</title>
+    <desc>A former Vietnam medic volunteers to train as a paramedic, but his quick diagnoses and independent medical efforts yield disaster.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908102500 +0000" stop="20250908110000 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>The officers face a gang of toughs who attempt to interfere in a narcotics arrest.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908110000 +0000" stop="20250908113500 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>Malloy is wounded and taken prisoner when he walks into a cafe where a robbery is in progress.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908113500 +0000" stop="20250908121000 +0000">
+    <title lang="zh">Barney Miller</title>
+    <desc>Barney's friend is assigned to investigate allegations of corruption in the 12th precinct; Chano pursues an obscene phone caller.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908121000 +0000" stop="20250908125000 +0000">
+    <title lang="zh">Barney Miller</title>
+    <desc>Wojo is attracted to a hooker picked up on a raid and she threatens harassment charges; Rachel wants her own apartment.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908125000 +0000" stop="20250908132500 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>War breaks out between the Willises and the Jeffersons, with Lionel and Jenny as the first casualties.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908132500 +0000" stop="20250908140000 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>George adds fuel to the fire by setting Lionel up with another girl.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908140000 +0000" stop="20250908143500 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Beaver writes a florid history of his mother's past for a school composition.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908143500 +0000" stop="20250908151000 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>The cover of Ward's office magazine bears a picture of Beaver kissing Fred Rutherford's daughter.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908151000 +0000" stop="20250908155000 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>Helping a pregnant woman gives engaged Mike pause.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908155000 +0000" stop="20250908162500 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>Bub acts as chaperon for Robbie's costume party.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908162500 +0000" stop="20250908170000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>A young prince learns that his uncle is planning to kill him and become heir to the throne.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908170000 +0000" stop="20250908173000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908173000 +0000" stop="20250908180000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908180000 +0000" stop="20250908183000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Joyce Meyer, a Christian minister, discusses religious teachings and encourages people to live ethically.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908183000 +0000" stop="20250908190000 +0000">
+    <title lang="zh">Life Today With James Robison</title>
+    <desc>James and Betty discuss how to bring God's blessings to Earth by holding to His principles in one's everyday life.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908190000 +0000" stop="20250908193500 +0000">
+    <title lang="zh">Highway Patrol</title>
+    <desc>Because of his wife's fears, Patrolman Ed Wylie resigns from the force after fellow officer Jerry March is killed in the line of duty.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908193500 +0000" stop="20250908201000 +0000">
+    <title lang="zh">Highway Patrol</title>
+    <desc>Two brothers hijack a new-car carrier, planning to sell the cars to get cash to purchase a farm; when the driver dies from injuries sustained in the hijacking, they make a panic-stricken attempt to dispose of the evidence.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908201000 +0000" stop="20250908204500 +0000">
+    <title lang="zh">Dragnet</title>
+    <desc>Friday and Gannon find life in the Business Office Division busier than they expected.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908204500 +0000" stop="20250908212000 +0000">
+    <title lang="zh">Dragnet</title>
+    <desc>Friday and Gannon introduce the use of dogs to the LAPD to sniff out marijuana.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908212000 +0000" stop="20250908215500 +0000">
+    <title lang="zh">Hazel</title>
+    <desc>The IRS scrutinizes George's return when he demands a refund.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908215500 +0000" stop="20250908223000 +0000">
+    <title lang="zh">Hazel</title>
+    <desc>Hazel's betrayal of a confidence loses George an appointment.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908223000 +0000" stop="20250908230500 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Beaver writes a florid history of his mother's past for a school composition.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908230500 +0000" stop="20250908234000 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>The cover of Ward's office magazine bears a picture of Beaver kissing Fred Rutherford's daughter.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250908234000 +0000" stop="20250909001500 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>Helping a pregnant woman gives engaged Mike pause.</desc>
+    <date>20250908</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909001500 +0000" stop="20250909005000 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>Bub acts as chaperon for Robbie's costume party.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909005000 +0000" stop="20250909012500 +0000">
+    <title lang="zh">Bewitched</title>
+    <desc>A frog which has turned into a man wants Samantha to turn him back.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909012500 +0000" stop="20250909020000 +0000">
+    <title lang="zh">Bewitched</title>
+    <desc>Endora's doctor cures Darrin's cold but produces strange side effects.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909020000 +0000" stop="20250909031000 +0000">
+    <title lang="zh">Laramie</title>
+    <desc>When a lame horse forces Jess to stop at the Tolliver holdings, he winds up a hostage of the Dyer gang.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909031000 +0000" stop="20250909042000 +0000">
+    <title lang="zh">The Rookies</title>
+    <desc>Gang members plan to continue operations after their boss is jailed, including killing Ryker; guests Vic Tayback, Vincent Baggetta.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909042000 +0000" stop="20250909053500 +0000">
+    <title lang="zh">Perry Mason</title>
+    <desc>Perry seeks the person responsible for the death of an unscrupulous coin dealer.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909053500 +0000" stop="20250909065000 +0000">
+    <title lang="zh">Perry Mason</title>
+    <desc>A beautiful model directs Perry to a missing heir's activities and murderer.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909065000 +0000" stop="20250909072500 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>War breaks out between the Willises and the Jeffersons, with Lionel and Jenny as the first casualties.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909072500 +0000" stop="20250909080000 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>George adds fuel to the fire by setting Lionel up with another girl.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909080000 +0000" stop="20250909091500 +0000">
+    <title lang="zh">Perry Mason</title>
+    <desc>Perry uncovers a second, long-concealed murder while solving the killing of an engineer; guest Meg Wyllie.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909091500 +0000" stop="20250909102500 +0000">
+    <title lang="zh">Emergency!</title>
+    <desc>An outspoken, feminist journalist covering the paramedics manages to alienate both the fire department and Rampart Emergency staff.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909102500 +0000" stop="20250909110000 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>The officers must capture a sniper lodged atop a theater building.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909110000 +0000" stop="20250909113500 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>Malloy and Reed break up a barroom hassle, chase speeders and duck shotgun blasts.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909113500 +0000" stop="20250909121000 +0000">
+    <title lang="zh">Barney Miller</title>
+    <desc>A drug stakeout fails when the entire neighborhood knows the detectives' whereabouts.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909121000 +0000" stop="20250909125000 +0000">
+    <title lang="zh">Barney Miller</title>
+    <desc>A bureaucrat is arrested for drunkenness; a 12-year-old who robs Chano's apartment; Wojo forces the precinct's favorite deli closed for minor health code infractions.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909125000 +0000" stop="20250909132500 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>A life-and-death situation grips the Jefferson household.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909132500 +0000" stop="20250909140000 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>When George forgets Mother Jefferson's birthday, Louise saves the day.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909140000 +0000" stop="20250909143500 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Beaver uses bleach to remove an oil stain from Wally's sport jacket.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909143500 +0000" stop="20250909151000 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Beaver is taken in by a magazine-advertised modeling agency scam.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909151000 +0000" stop="20250909155000 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>Robbie teaches American customs to a Chinese girl.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909155000 +0000" stop="20250909162500 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>The family may be moving to Hawaii.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909162500 +0000" stop="20250909170000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>Trouble erupts with some ranch hands when two American Indians try to cross a property line on their way to sign a peace treaty.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909170000 +0000" stop="20250909173000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Don't settle for half the gift: Joseph says Jesus paid for your salvation as well as healing at the cross!</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909173000 +0000" stop="20250909180000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909180000 +0000" stop="20250909183000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Joyce Meyer, a Christian minister, discusses religious teachings and encourages people to live ethically.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909183000 +0000" stop="20250909190000 +0000">
+    <title lang="zh">Life Today With James Robison</title>
+    <desc>James and Betty discuss how to bring God's blessings to Earth by holding to His principles in one's everyday life.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909190000 +0000" stop="20250909193500 +0000">
+    <title lang="zh">Highway Patrol</title>
+    <desc>An escaped convict abducts his estranged wife and forces her to help him elude the Highway Patrol.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909193500 +0000" stop="20250909201000 +0000">
+    <title lang="zh">Highway Patrol</title>
+    <desc>An ex-con wants to return money stolen in an armed robbery, but his former partner has other ideas.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909201000 +0000" stop="20250909204500 +0000">
+    <title lang="zh">Dragnet</title>
+    <desc>A fellow officer tries to include Friday in a gambling operation.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909204500 +0000" stop="20250909212000 +0000">
+    <title lang="zh">Dragnet</title>
+    <desc>Thrill-seeking teenagers find that car theft can lead to more serious crimes -- and tragedy.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909212000 +0000" stop="20250909215500 +0000">
+    <title lang="zh">Hazel</title>
+    <desc>Hazel dissuades her nephew and George's niece from marrying.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909215500 +0000" stop="20250909223000 +0000">
+    <title lang="zh">Hazel</title>
+    <desc>Harold believes a gravy boat has the magic of Aladdin's lamp.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909223000 +0000" stop="20250909230500 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Beaver uses bleach to remove an oil stain from Wally's sport jacket.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909230500 +0000" stop="20250909234000 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Beaver is taken in by a magazine-advertised modeling agency scam.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250909234000 +0000" stop="20250910001500 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>Robbie teaches American customs to a Chinese girl.</desc>
+    <date>20250909</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910001500 +0000" stop="20250910005000 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>The family may be moving to Hawaii.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910005000 +0000" stop="20250910012500 +0000">
+    <title lang="zh">Bewitched</title>
+    <desc>The queen of the witches abdicates and appoints Samantha to succeed her.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910012500 +0000" stop="20250910020000 +0000">
+    <title lang="zh">Bewitched</title>
+    <desc>Endora brings a toy soldier to life to baby-sit with Tabitha.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910020000 +0000" stop="20250910031000 +0000">
+    <title lang="zh">Laramie</title>
+    <desc>While visiting Laramie, Daisy discovers a dead body on the floor down the hall from her hotel room, but she has trouble getting people to believe her when she identifies the killer.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910031000 +0000" stop="20250910042000 +0000">
+    <title lang="zh">The Rookies</title>
+    <desc>A man who bought a handgun in order to protect his family is accidentally shot; guests Don Stroud, Ty Henderson, Eric Laneuville.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910042000 +0000" stop="20250910053500 +0000">
+    <title lang="zh">Perry Mason</title>
+    <desc>Perry looks into a Hollywood agent's murder; guests Mark Goddard, Gary Crosby.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910053500 +0000" stop="20250910065000 +0000">
+    <title lang="zh">Perry Mason</title>
+    <desc>Perry investigates after a beautiful jewel thief is found murdered; guest Barry Sullivan.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910065000 +0000" stop="20250910072500 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>A life-and-death situation grips the Jefferson household.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910072500 +0000" stop="20250910080000 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>When George forgets Mother Jefferson's birthday, Louise saves the day.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910080000 +0000" stop="20250910091500 +0000">
+    <title lang="zh">Perry Mason</title>
+    <desc>A widow is charged with killing the man she believes murdered her son; guests Frances Reid, Noah Beery.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910091500 +0000" stop="20250910102500 +0000">
+    <title lang="zh">Emergency!</title>
+    <desc>DeSoto maneuvers Gage into a blind date with his wife's cousin; Brackett must operate on a newlywed husband felled by gunshot wounds.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910102500 +0000" stop="20250910110000 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>Reed and Malloy work with the Internal Affairs Division when a detective is suspected of wrongdoing.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910110000 +0000" stop="20250910113500 +0000">
+    <title lang="zh">Adam-12</title>
+    <desc>A pleasant evening for Malloy and Reed is interrupted by a teenage neighbor who is high on drugs.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910113500 +0000" stop="20250910121000 +0000">
+    <title lang="zh">Barney Miller</title>
+    <desc>Barney creates a problem when he assigns a robbery case to Fish and Yemana and turns the typing over to newly assigned Detective Janice Wentworth.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910121000 +0000" stop="20250910125000 +0000">
+    <title lang="zh">Barney Miller</title>
+    <desc>Inspector Luger visits Barney to complain; Wojo arrests a cross-dressing teamster. A neighborhood vigilante is over the hill.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910125000 +0000" stop="20250910132500 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>A publisher asks Louise to write a cookbook of "ghetto" recipes.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910132500 +0000" stop="20250910140000 +0000">
+    <title lang="zh">The Jeffersons</title>
+    <desc>Helen and Tom get caught in a tight spot -- George's bathroom.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910140000 +0000" stop="20250910143500 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Wally comes up short in his ice-cream business.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910143500 +0000" stop="20250910151000 +0000">
+    <title lang="zh">Leave It to Beaver</title>
+    <desc>Beaver becomes overly chivalrous after reading Sir Walter Scott's "Ivanhoe.".</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910151000 +0000" stop="20250910155000 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>Chip's stone frog may indeed be magical.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910155000 +0000" stop="20250910162500 +0000">
+    <title lang="zh">My Three Sons</title>
+    <desc>The show-business fever reawakens in Bub.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910162500 +0000" stop="20250910170000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>The Lone Ranger and Tonto intervene when robbers wearing face masks terrorize Peaceful Valley.</desc>
+    <date>20250910</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="403682" start="20250910170000 +0000" stop="20250911000000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Don't settle for half the gift: Joseph says Jesus paid for your salvation as well as healing at the cross!</desc>
     <date>20250910</date>
     <audio>
       <stereo>stereo</stereo>
