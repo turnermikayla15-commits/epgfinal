@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20250927080003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_US.xml">
+<tv date="20250928080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_US.xml">
   <channel id="8359">
     <display-name lang="US">Nick Music (NICM)</display-name>
     <icon src=""/>
@@ -436,10 +436,6 @@
     <display-name lang="US">SEC Network</display-name>
     <icon src=""/>
   </channel>
-  <channel id="457049">
-    <display-name lang="US">MGM HD (USA)</display-name>
-    <icon src=""/>
-  </channel>
   <channel id="458672">
     <display-name lang="US">ION  - Eastern Feed</display-name>
     <icon src=""/>
@@ -450,42 +446,6 @@
   </channel>
   <channel id="458927">
     <display-name lang="US">Altitude Sports - Denver</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403470">
-    <display-name lang="US">MSNBC USA</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403472">
-    <display-name lang="US">Hallmark Mystery Eastern - HD</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403534">
-    <display-name lang="US">ACC Network</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403674">
-    <display-name lang="US">Disney Junior USA - East</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403738">
-    <display-name lang="US">Fox Business</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403814">
-    <display-name lang="US">Smithsonian Channel USA HD</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403887">
-    <display-name lang="US">NBC Sports California</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403903">
-    <display-name lang="US">Fox News</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="457434">
-    <display-name lang="US">Freeform - East Feed</display-name>
     <icon src=""/>
   </channel>
   </tv>
