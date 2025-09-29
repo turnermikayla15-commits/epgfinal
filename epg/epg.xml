@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20250928080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_US.xml">
+<tv date="20250929080003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_US.xml">
   <channel id="8359">
     <display-name lang="US">Nick Music (NICM)</display-name>
     <icon src=""/>
@@ -296,16 +296,8 @@
     <display-name lang="US">SportsNet Pittsburgh+</display-name>
     <icon src=""/>
   </channel>
-  <channel id="418726">
-    <display-name lang="US">MotorTrend FAST TV</display-name>
-    <icon src=""/>
-  </channel>
   <channel id="428456">
     <display-name lang="US">PIXL</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="435991">
-    <display-name lang="US">FilmRise True Crime</display-name>
     <icon src=""/>
   </channel>
   <channel id="442719">
@@ -338,10 +330,6 @@
   </channel>
   <channel id="457057">
     <display-name lang="US">NBC Sports Bay Area</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="457059">
-    <display-name lang="US">NFL RedZone</display-name>
     <icon src=""/>
   </channel>
   <channel id="458490">
@@ -396,56 +384,4 @@
     <display-name lang="US">UP</display-name>
     <icon src=""/>
   </channel>
-  <channel id="146985">
-    <display-name lang="US">Monumental Sports Network</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403527">
-    <display-name lang="US">CNBC USA</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403580">
-    <display-name lang="US">Pursuit Channel</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403600">
-    <display-name lang="US">CMT US - Eastern Feed</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403653">
-    <display-name lang="US">VH1 - Eastern Feed</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403726">
-    <display-name lang="US">Bloomberg TV USA</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403739">
-    <display-name lang="US">Destination America</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403772">
-    <display-name lang="US">TeenNick - Eastern</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403879">
-    <display-name lang="US">TV Land - Eastern</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="403901">
-    <display-name lang="US">SEC Network</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="458672">
-    <display-name lang="US">ION  - Eastern Feed</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="458920">
-    <display-name lang="US">Nickelodeon USA - East Feed</display-name>
-    <icon src=""/>
-  </channel>
-  <channel id="458927">
-    <display-name lang="US">Altitude Sports - Denver</display-name>
-    <icon src=""/>
-  </channel>
-  </tv>
+</tv>
