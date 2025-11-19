@@ -132,6 +132,10 @@
     <display-name lang="US">MGM+ Marquee HD</display-name>
     <icon src=""/>
   </channel>
+  <channel id="464922">
+    <display-name lang="US">Comedy Central HD</display-name>
+    <icon src=""/>
+  </channel>
   <channel id="464925">
     <display-name lang="US">PBS KIDS HD</display-name>
     <icon src=""/>
@@ -15011,6 +15015,982 @@
   <programme channel="464921" start="20251121122500 +0000" stop="20251122000000 +0000">
     <title lang="zh">Our Kind of Traitor</title>
     <desc>A money launderer (Stellan Skarsgard) for Russian gangsters asks a couple vacationing in Marrakech, Morocco, to deliver incriminating evidence to an MI6 agent (Damian Lewis).</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119000000 +0000" stop="20251119003000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys are sent to the Costa Rican rainforest as a part of the Getting Gay with kids choir tour; Cartman is determined to cause chaos.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119003000 +0000" stop="20251119010000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The citizens of South Park are exploding randomly; Stan's Dad is on the case.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119010000 +0000" stop="20251119013000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys coerce two of their reluctant classmates, Tweek and Craig, into a school yard fight.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119013000 +0000" stop="20251119020000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>While camping on the banks of Starks Pond, the boys discover the last two Jakovasaurs left alive on the planet.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119020000 +0000" stop="20251119023000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman files a sexual harassment suit against Stan.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119023000 +0000" stop="20251119030000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>A meteor shower hits South Park; Shelly invites her somewhat unsuitable boyfriend to join her when she babysits for Cartman, at the same time Cartman's cat is on heat.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119030000 +0000" stop="20251119033000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys' call to the police creates a stand-off.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119033000 +0000" stop="20251119040000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>South Park waits for the meteor shower; Kyle and Ike go camping.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119040000 +0000" stop="20251119043000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Brian's new job as a journalist leads him to uncover that Pawtucket Pat, Quahog's hero and brewery founder, took part in racist actions against Native Americans; the town becomes divided on whether or not to remove the statue that commemorates him.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119043000 +0000" stop="20251119050000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>When the family fails to help Lois with the Christmas shopping, she walks out on the family and the Griffins try to save Christmas on their own.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119050000 +0000" stop="20251119053000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>When Peter makes it through a bad flu season without getting sick, the hospital asks him to volunteer as a nurse; he finds himself at a crossroads when his mortal enemy, the Giant Chicken, is admitted; Brian has an identity crisis.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119053000 +0000" stop="20251119060000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Brian bonds with the son of his new girlfriend; Peter, Quagmire and Cleveland take a joy ride in Joe's new classic Corvette.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119060000 +0000" stop="20251119063000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>After attending a baseball game, Peter and Chris are inspired to start a memorabilia business; Stewie tries to combat aging by getting plastic surgery but ends up taking it too far.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119063000 +0000" stop="20251119070000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Stewie designs a "Terminator" Peter robot to destroy Lois for trying to feed him broccoli; when things don't go according to plan, Stewie and Brian go on a Terminator-esque mission to save Stewie's life.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119070000 +0000" stop="20251119073000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Stewie gets a mail order bride and experiences domestic life; Peter and Chris become addicted to free hotel breakfast buffets.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119073000 +0000" stop="20251119080000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>After feeling unappreciated by her family, Lois taps into her villainous side and attempts to win best customer at her favorite coffee shop.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119080000 +0000" stop="20251119083000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Brian has a microchip that reveals he had a family before the Griffins; he discovers his original family is rich and he struggles to enjoy his life with the Griffins as much as he once did.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119083000 +0000" stop="20251119090000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Lois and Peter are mistaken for young parents by another couple at Stewie's school; they are invited to live in a millennial apartment complex, leaving Meg and Chris home alone.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119090000 +0000" stop="20251119093000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Meg deals with a college admissions scandal; Brian embarks on a fitness journey.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119093000 +0000" stop="20251119100000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>With her vision waning, Lois elects to get LASIK surgery but exploits her new disability for monetary gain; Peter, Chris and Stewie must partake in all the activities with Doug that his father neglects.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119100000 +0000" stop="20251119103000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>While at an old record store, Peter and the guys recount tales of three rock legends: Jim Morrison, Muddy Waters and Elton John.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119103000 +0000" stop="20251119110000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Quagmire meets an avid dog lover and pretends Brian is his dog in an attempt to win her over; Chris helps Stewie track down the culprit who stole his Halloween candy.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119110000 +0000" stop="20251119113000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Impelled by nostalgia, Peter re-creates movie scenes from his favorite decade; Stewie and Doug compete to retrieve a Frisbee stuck at the top of the jungle gym.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119113000 +0000" stop="20251119120000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>When Peter and Quagmire accidentally switch underwears, they begin to mimic the other's behavior; Stewie and Doug agree to commit each other's murders.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119120000 +0000" stop="20251119123500 +0000">
+    <title lang="zh">The Daily Show</title>
+    <desc>A satirical look at news, trends, pop culture, current events, politics, sports and entertainment.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119123500 +0000" stop="20251119130200 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>With her vision waning, Lois elects to get LASIK surgery but exploits her new disability for monetary gain; Peter, Chris and Stewie must partake in all the activities with Doug that his father neglects.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119130200 +0000" stop="20251119133000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>While at an old record store, Peter and the guys recount tales of three rock legends: Jim Morrison, Muddy Waters and Elton John.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119133000 +0000" stop="20251119140000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Quagmire meets an avid dog lover and pretends Brian is his dog in an attempt to win her over; Chris helps Stewie track down the culprit who stole his Halloween candy.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119140000 +0000" stop="20251119143000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Impelled by nostalgia, Peter re-creates movie scenes from his favorite decade; Stewie and Doug compete to retrieve a Frisbee stuck at the top of the jungle gym.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119143000 +0000" stop="20251119150000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Butters' Al revenge plan backfires, igniting an epidemic of fake videos at school that leaves Detective Harris struggling to tell fantasy from reality.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119150000 +0000" stop="20251119153000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The kids' parents have only their best interests at heart when they arrange for the kids to be exposed to the chickenpox virus.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119153000 +0000" stop="20251119160000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The children in South Park are fanatics about Chinpoko Mon.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119160000 +0000" stop="20251119163000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys compete against home-schooled kids in the annual spelling bee.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119163000 +0000" stop="20251119170000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman suits up for the Confederacy during the annual Civil War re-enactment.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119170000 +0000" stop="20251119173000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The group travels to Arkansas for the first worldwide recorder concert.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119173000 +0000" stop="20251119180000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The girls of South Park Elementary challenge the boys to a sledding race, and Cartman gets sentenced to juvenile hall for 13 years.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119180000 +0000" stop="20251119183000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys start stealing teeth from less fortunate children and selling them to the Tooth Fairy at a premium.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119183000 +0000" stop="20251119190000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>A British classmate retells Charles Dickens' "Great Expectations.".</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119190000 +0000" stop="20251119193000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>A family of quintuplets takes up residence in South Park and a media circus surrounds their every move.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119193000 +0000" stop="20251119200000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Timmy is excused from class when he is diagnosed with Attention Deficit Disorder.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119200000 +0000" stop="20251119203000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman seeks mature friends; Kenny tries to prevent the conception of a sibling.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119203000 +0000" stop="20251119210000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>A haggling Cartman holds the key to saving Kyle, who faces death due to a rare kidney disease and his mother's holistic remedies.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119210000 +0000" stop="20251119213000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Chef's passionate protest against the South Park Flag enflames the entire town including the children.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119213000 +0000" stop="20251119220000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys form their own boy band and everyone in town lines up to audition for a spot as the fifth band member.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119220000 +0000" stop="20251119223500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Priest Max threatens eternal damnation, and the boys seek religion; Saddam returns.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119223500 +0000" stop="20251119231000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Satan is torn between two lovers as he tries to choose between his new boyfriend and his ex, Saddam Hussein.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119231000 +0000" stop="20251119234500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys build a time machine to return to happier school days.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251119234500 +0000" stop="20251120001500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman holds the key to saving the world from an omnipotent super being that springs to life in the school yard.</desc>
+    <date>20251119</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120001500 +0000" stop="20251120005000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The 4th grade Thanksgiving play is in trouble and Stan, Kyle and Kenny are going to great lengths to make their production a hit.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120005000 +0000" stop="20251120012500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman's friends and family stage an intervention, forcing him to go to Fat Camp.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120012500 +0000" stop="20251120020000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The kids take over South Park, and Cartman becomes the mayor.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120020000 +0000" stop="20251120023000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman goes medieval on Scott Tenorman when ginger-haired Scott tricks him into buying his pubic hair.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120023000 +0000" stop="20251120030000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Big Gay Al becomes the boys' troop leader; a new kid steals Timmy's spotlight.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120030000 +0000" stop="20251120033000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When the boys discover their idols, Terrance and Phillip, have called it quits, they'll go to any length to reunite the duo.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120033000 +0000" stop="20251120040000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman inherits a fortune and buys an amusement park.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120040000 +0000" stop="20251120043000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Panic and confusion ensue when the children are exposed to sex education classes.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120043000 +0000" stop="20251120050000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys enlist the help of a genetically engineered towel to reclaim a game system.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120050000 +0000" stop="20251120053000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When the boys receive a package from the children of Afghanistan, every government agency descends upon the town to investigate.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120053000 +0000" stop="20251120060000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The funniest thing Cartman's ever seen comes to town; realizing he'll never see anything funnier, he loses his sense of humor.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120060000 +0000" stop="20251120063000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kyle tries to ditch his cousin, Kyle, who comes to South Park for an extended visit and embarrasses him in front of his friends.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120063000 +0000" stop="20251120070000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Token is teased as the only rich kid in town so he begins to lure others like himself to South Park but the town tries to drive them out.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120070000 +0000" stop="20251120073000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman has a personal stake in stem cell research.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120073000 +0000" stop="20251120080000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Butters reveals a dark family secret.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120080000 +0000" stop="20251120083000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys sign Butters up as a guest on a popular afternoon talk show that features people with weird deformities.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120083000 +0000" stop="20251120090000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys see an opportunity to make money from a weight-loss program.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120090000 +0000" stop="20251120093000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys' parents are offered a free ski trip to Aspen; Stan has a run in with one of the locals.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120093000 +0000" stop="20251120100000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys eagerly anticipate the trailer to the new Terrance and Philip movie.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120100000 +0000" stop="20251120103000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys fly to the rescue of helpless calves destined for slaughter.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120103000 +0000" stop="20251120110000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Scandal impacts church attendance in South Park.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120110000 +0000" stop="20251120113000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Butters experiences the reality of tariffs when he has to buy a Labubu doll for his girlfriend's birthday.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120113000 +0000" stop="20251120120000 +0000">
+    <title lang="zh">Mike Judge's Beavis and Butt-Head</title>
+    <desc>Beavis and Butt-Head mistake a can of pepper spray for men's cologne; middle-aged Beavis and Butt-Head struggle to get a new couch into their apartment.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120120000 +0000" stop="20251120123500 +0000">
+    <title lang="zh">The Daily Show</title>
+    <desc>A satirical look at news, trends, pop culture, current events, politics, sports and entertainment.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120123500 +0000" stop="20251120130200 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman and his foul mouth make television history.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120130200 +0000" stop="20251120133000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys form a club in order to stop Hollywood directors from wrecking their own films.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120133000 +0000" stop="20251120140000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman gets kicked out of the gang when Bebe develops boobs and the boys lose their minds, threatening their friendships and the society.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120140000 +0000" stop="20251120143000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>South Park parents go to extreme measures to protect their children from kidnappers.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120143000 +0000" stop="20251120150000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When the boys go to Heaven to find Kenny, the Feds investigate the possibility that Saddam Hussein may be hiding weapons there.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120150000 +0000" stop="20251120153000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys go on a mythical quest to return their copy of "The Lord of the Rings" to the video store while Butters watches his first porno.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120153000 +0000" stop="20251120160000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Principal Victoria promotes Mr. Garrison to the fourth grade to teach the boys.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120160000 +0000" stop="20251120163000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The ghost of Kenny is haunting Cartman and he tries everything to get rid of it; after an unsuccessful attempt with a television medium, Chef sends him to his parents in Scotland so that they can exorcise the spirit.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120163000 +0000" stop="20251120170000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Stan faces his future as a loser; Cartman ventures into the business of revenge.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120170000 +0000" stop="20251120173000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When a recently disabled star visits South Park and steals Jimmy's limelight, he and Timmy fight back by forming a handicapped gang.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120173000 +0000" stop="20251120180000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>After convincing the boys to toilet paper their teacher's house, Cartman contemplates killing Kyle so he doesn't rat them all out.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120180000 +0000" stop="20251120183000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys learn life on Earth is an alien reality show about to be canceled.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120183000 +0000" stop="20251120190000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>One of Cartman's body parts becomes famous overnight and rivals the popularity of another superstar.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120190000 +0000" stop="20251120193000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys are named junior deputies and open up their own detective agency.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120193000 +0000" stop="20251120200000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Townspeople fight the take-over by casino owners.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120200000 +0000" stop="20251120203000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Everybody tries to be the gayest when homosexuality becomes hip in South Park.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120203000 +0000" stop="20251120210000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman starts a Christian rock group, while Kyle, Stan and Kenny are arrested for downloading music off the Internet.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120210000 +0000" stop="20251120213000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The elderly residents of South Park lead a revolt after their licenses get revoked.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120213000 +0000" stop="20251120220000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman exacts revenge when he is not invited to Kyle's birthday party.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120220000 +0000" stop="20251120223000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When a Mormon kid moves to South Park, Stan has to beat him up while the rest of the town are fascinated and become Mormons.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120223000 +0000" stop="20251120230000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys take up smoking after their school is visited by the anti-smoking campaign representatives.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120230000 +0000" stop="20251120233000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>After Wendy breaks up with Stan, the boys take him to Raisins, a local restaurant known for its great chicken wings and hot girls.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251120233000 +0000" stop="20251121000000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys are transformed into Japanese Warriors after buying martial arts weapons at a flea market.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121000000 +0000" stop="20251121003000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman pretends to be a robot in order to learn Butter's secrets.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121003000 +0000" stop="20251121010000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Jimmy and Cartman both prepare to try and win an impending sporting event; Jimmy decides to train hard, whereas Cartman attempts to convince the committee that he has a handicap.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121010000 +0000" stop="20251121013000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Stan puts a team of South Park's best dancers together to compete against a rival troupe from Orange County.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121013000 +0000" stop="20251121020000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The local police force resents Mr. Jefferson for his wealth and ethnicity.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121020000 +0000" stop="20251121023000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When PETA demonstrates against the use of a cow as South Park Elementary's mascot, the student body is forced to choose a new one; as the election approaches, Kyle and Cartman try to get votes for their candidates.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121023000 +0000" stop="20251121030000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys are named junior deputies and open up their own detective agency.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121030000 +0000" stop="20251121033000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>For five long years, Stan, Kyle, Kenny, Cartman and Butters have kept a secret about an illegal incident that happened back in preschool; now, the kid who took the fall for the group, Trent Boyett, is out for revenge.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121033000 +0000" stop="20251121040000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys struggle to secure viewers for their morning news show.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121040000 +0000" stop="20251121043000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Fourth-grade girls try to impress their idol when she visits South Park.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121043000 +0000" stop="20251121050000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman suffers a severe blow to the head after a nearly fatal fall; the local police force naturally assume Cartman now has psychic powers and they employ him to solve outstanding crimes.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121050000 +0000" stop="20251121053000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The citizens of South Park seek Cartman's help to battle hippies.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121053000 +0000" stop="20251121060000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys start a talent agency hoping to make money.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121060000 +0000" stop="20251121063000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman is jealous when Kenny gets the last portable gaming device in stock.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121063000 +0000" stop="20251121070000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys set out to lose a baseball game in order to avoid playing the game all summer.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121070000 +0000" stop="20251121073000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Butters thinks he can communicate with the dead.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121073000 +0000" stop="20251121080000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Jimmy must learn to control himself before performing in the talent show.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121080000 +0000" stop="20251121083500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys fake Butters' death to reinvent him as a girl.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121083500 +0000" stop="20251121091000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When Ms. Garrison hears of Mr. Slave's impending wedding, she vows to stop same-sex marriage.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121091000 +0000" stop="20251121094500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When Stan looks to new religions to cure his depression, church leaders recognize him as the second coming.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121094500 +0000" stop="20251121102000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kyle befriends a whale from the new Denver Sea Park; he convinces all the fourth grade boys to help him get his new friend back home.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121102000 +0000" stop="20251121105500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Stan is embarrassed in front of his friends when his dad is arrested for drunk driving.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121105500 +0000" stop="20251121113000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Humans from the year 4035 are arriving in South Park through a time portal looking for work; when the boys try to earn some extra money, the time immigrants, willing to do the same work for next to nothing, do their jobs.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121113000 +0000" stop="20251121120000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Mr. Garrison undergoes a sex change operation.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121120000 +0000" stop="20251121123500 +0000">
+    <title lang="zh">The Daily Show</title>
+    <desc>A satirical look at news, trends, pop culture, current events, politics, sports and entertainment.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121123500 +0000" stop="20251121130200 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>After attending a baseball game, Peter and Chris are inspired to start a memorabilia business; Stewie tries to combat aging by getting plastic surgery but ends up taking it too far.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121130200 +0000" stop="20251121133000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Stewie designs a "Terminator" Peter robot to destroy Lois for trying to feed him broccoli; when things don't go according to plan, Stewie and Brian go on a Terminator-esque mission to save Stewie's life.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20251121133000 +0000" stop="20251122000000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Stewie gets a mail order bride and experiences domestic life; Peter and Chris become addicted to free hotel breakfast buffets.</desc>
     <date>20251121</date>
     <audio>
       <stereo>stereo</stereo>
