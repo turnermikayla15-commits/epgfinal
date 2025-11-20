@@ -68,6 +68,10 @@
     <display-name lang="US">TBN Inspire</display-name>
     <icon src=""/>
   </channel>
+  <channel id="464846">
+    <display-name lang="US">Great American Family HD</display-name>
+    <icon src=""/>
+  </channel>
   <channel id="464857">
     <display-name lang="US">CNN HD</display-name>
     <icon src=""/>
@@ -63992,6 +63996,254 @@
   <programme channel="464830" start="20251122130000 +0000" stop="20251123000000 +0000">
     <title lang="zh">Fire Country</title>
     <desc>Station 42 responds to a dangerous fire at a beloved local smokehouse where Jake is forced to confront memories of his late father and the place they once shared.</desc>
+    <date>20251122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120010000 +0000" stop="20251120030000 +0000">
+    <title lang="zh">Christmas on Windmill Way</title>
+    <desc>Mia Miejer expects that her Mimi will win the Christmas Market Dutch Bake-Off competition, but her Mimi has difficult news to share: she must sell the deed to their Windmill Way property, which has been in their family for generations.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120030000 +0000" stop="20251120050000 +0000">
+    <title lang="zh">Royally Wrapped for Christmas</title>
+    <desc>Lindsay, the NY director of an international charity organization, is called to the Kingdom of Veronia by the royal family to interview for the job of overseeing the whole operation. During the interview process, she finds true love with the prince.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120050000 +0000" stop="20251120070000 +0000">
+    <title lang="zh">Joy for Christmas</title>
+    <desc>A publicist introduces a famous athlete to the joys of Christmas in the hopes that he will assist her in saving her family's annual charity.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120070000 +0000" stop="20251120090000 +0000">
+    <title lang="zh">Angel Falls Christmas</title>
+    <desc>A devoted doctor with little time for the Christmas spirit is in desperate need of an intervention from the unlikeliest of places.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120090000 +0000" stop="20251120110000 +0000">
+    <title lang="zh">A Lot Like Christmas</title>
+    <desc>Jessica owns the most popular Christmas tree lot in Hudson Springs, but when big-city marketing executive Clay Moore moves a big box chain store into the area and starts selling trees, Jessica finds her business in jeopardy.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120110000 +0000" stop="20251120130000 +0000">
+    <title lang="zh">A Paris Christmas Waltz</title>
+    <desc>Emma encounters a professional dancer Leo, whose enthusiasm for competitive dancing is diminishing. However, a once-in-a-lifetime opportunity presents itself for the novice to join the pro.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120130000 +0000" stop="20251120150000 +0000">
+    <title lang="zh">Once Upon a Christmas Wish</title>
+    <desc>A town mayor rediscovers the joy and spirit of the holiday season when his childhood Christmas wish list starts to magically come true.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120150000 +0000" stop="20251120170000 +0000">
+    <title lang="zh">Timeless Tidings of Joy</title>
+    <desc>Ally, inherits Timeless Tidings, a shop her grandmother, Joy, opened in the 1940s to sell her handmade letter-press tidings. The shop was a labor of love, service, and sacrifice throughout the decades for Joy. Ally always saw Joy's sacrifices for the shop as a burden on Joy's life and happiness. When Ally returns to the shop to prepare it for sale, she meets Bennett, an old soul, who wants to pres</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120170000 +0000" stop="20251120190000 +0000">
+    <title lang="zh">Designing Christmas With You</title>
+    <desc>With her career on the line, a decorator must work with an unexpected partner to showcase a house for an upcoming Christmas gala.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120190000 +0000" stop="20251120210000 +0000">
+    <title lang="zh">Destined at Christmas</title>
+    <desc>After Kim and Theo meet in the midst of Black Friday shopping madness, they are determined to meet again.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120210000 +0000" stop="20251120230000 +0000">
+    <title lang="zh">Christmas Wreaths and Ribbons</title>
+    <desc>A woman receives help from a selfless neighbor when an arm injury puts her holiday wreath deliveries in jeopardy.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251120230000 +0000" stop="20251121010000 +0000">
+    <title lang="zh">Christmas at the Drive-In</title>
+    <desc>A property lawyer finds romance during the holidays while trying to save her town's local drive-in from closing down.</desc>
+    <date>20251120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121010000 +0000" stop="20251121030000 +0000">
+    <title lang="zh">Timeless Tidings of Joy</title>
+    <desc>Ally, inherits Timeless Tidings, a shop her grandmother, Joy, opened in the 1940s to sell her handmade letter-press tidings. The shop was a labor of love, service, and sacrifice throughout the decades for Joy. Ally always saw Joy's sacrifices for the shop as a burden on Joy's life and happiness. When Ally returns to the shop to prepare it for sale, she meets Bennett, an old soul, who wants to pres</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121030000 +0000" stop="20251121050000 +0000">
+    <title lang="zh">Tails of Christmas</title>
+    <desc>Caleb gets injured in the army and begins recovering through help from shelter therapy dogs. As a sign of thanks, Caleb returns home to help Amber run the local shelter and in the process, discovers his feelings for Amber go beyond gratitude.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121050000 +0000" stop="20251121070000 +0000">
+    <title lang="zh">Christmas Keepsake</title>
+    <desc>Following their move to a new city, a father bonds with his daughter and stumbles upon an unexpected romance while tracking down the original owner of a Christmas time capsule.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121070000 +0000" stop="20251121090000 +0000">
+    <title lang="zh">Crown Prince of Christmas</title>
+    <desc>Madison jokingly tells her overbearing family that she is dating the prince of a small European nation. The joke goes too far as her friend/co-worker Sebastian is roped into impersonating the prince while visiting her family in New Jersey.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121090000 +0000" stop="20251121110000 +0000">
+    <title lang="zh">Catering Christmas</title>
+    <desc>Fledgling caterer Molly Frost is hired by perfectionist Jean Harrison for the renowned Harrison Foundation's annual Christmas Gala, but things get complicated when she falls for Jean's nephew, a photogropher with no desire to take over the foundation. Molly shows Carson all the good his family is able to provide.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121110000 +0000" stop="20251121130000 +0000">
+    <title lang="zh">Meet Me Under the Mistletoe</title>
+    <desc>Rival real estate agents both make the same wish during the first snow of the winter: to win the most coveted listing in town. As the business competitors begrudgingly work together, they learn the house comes with a special commission: love.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121130000 +0000" stop="20251121150000 +0000">
+    <title lang="zh">Let It Snow</title>
+    <desc>An executive examines her company's new property and prepares a presentation to transform the rustic lodge into a new hot spot. She tries to ignore the lodge's festive celebrations during her stay, but an unexpected romance changes her heart.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121150000 +0000" stop="20251121170000 +0000">
+    <title lang="zh">A Cinderella Christmas Ball</title>
+    <desc>A dance instructor finds an old photo of a couple who may be her mother and father. Hoping to solve the mystery of her birth family, she travels to Havenshire where she meets a charming prince who dances with her at the Christmas ball.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121170000 +0000" stop="20251121190000 +0000">
+    <title lang="zh">Pencil Me in for Christmas</title>
+    <desc>An aspiring illustrator teams up with a demanding author to work on a children's book. As they create their Christmas-themed project in a nostalgic small town, they find themselves rediscovering the holiday spirit.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121190000 +0000" stop="20251121210000 +0000">
+    <title lang="zh">A Kindhearted Christmas</title>
+    <desc>To capture the holiday spirit, Jaime anonymously gives gifts to those in need. Word spreads and people in town wonder who this "Secret Santa" is. She remains anonymous and meets Scott. Jamie tries to keep her secret and pursue a new romance.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121210000 +0000" stop="20251121230000 +0000">
+    <title lang="zh">A Christmas Less Traveled</title>
+    <desc>An old audio cassette of her dad's voice sends a woman on a journey to retrace her family's most memorable moments. Along the way, she meets a man who offers her a generous payment in exchange for a ride to close the most important deal of his life.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251121230000 +0000" stop="20251122010000 +0000">
+    <title lang="zh">A Dash of Christmas</title>
+    <desc>To apply for her dream job at a foodie startup, an executive must learn to bake. When she recruits a handsome baker to help her, she inadvertently ends up in a Christmas Bakeoff.</desc>
+    <date>20251121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251122010000 +0000" stop="20251122030000 +0000">
+    <title lang="zh">B&amp;B Merry</title>
+    <desc>Graham Cooper invites renowned travel blogger Tracey Wise on a Christmas getaway in exchange for her review of his family's small bed &amp; breakfast, Silver Peak. Unfortunately, the humble B&amp;B is facing tough competition from an upscale hotel resort that's been stealing guests and threatening the survival of the family business.</desc>
+    <date>20251122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251122030000 +0000" stop="20251122050000 +0000">
+    <title lang="zh">The Art of Christmas</title>
+    <desc>After her latest gallery exhibition literally goes up in flames, struggling artist Liv James accepts a teaching job at a local elementary school to make ends meet.</desc>
+    <date>20251122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251122050000 +0000" stop="20251122070000 +0000">
+    <title lang="zh">A Royal Christmas Ballet</title>
+    <desc>A retired ballerina finds unexpected romance while working with a visiting team of royal ambassadors to stage the holiday season's performance of "The Nutcracker.".</desc>
+    <date>20251122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251122070000 +0000" stop="20251122090000 +0000">
+    <title lang="zh">A Merry Christmas Wish</title>
+    <desc>An NYC advertising executive returns to her hometown to sell the family farm but instead reconnects with her childhood friend and gets involved with organizing the yearly Winter Wonderland, which takes place on the property.</desc>
+    <date>20251122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251122090000 +0000" stop="20251122110000 +0000">
+    <title lang="zh">A Wisconsin Christmas Pie</title>
+    <desc>A pastry chef returns to Wisconsin when she learns her family's farm is on the brink of being sold to developers. Reconnecting with her high school sweetheart, they discover love may just be the recipe for saving the farm -- and their hearts.</desc>
+    <date>20251122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251122110000 +0000" stop="20251122130000 +0000">
+    <title lang="zh">A Royal Christmas Holiday</title>
+    <desc>An ambitious reporter tracks down a prince who is in town for the dedication of a naval museum honoring his late grandfather. She convinces him to show his followers that his work is more than just a job, and the two begin to fall for each other.</desc>
+    <date>20251122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464846" start="20251122130000 +0000" stop="20251123000000 +0000">
+    <title lang="zh">Christmas of Giving</title>
+    <desc>Belle Carter has devoted her whole life to making the holidays bright for those in need. With Christmas approaching and the community's hopes hanging in the balance, she discovers believing in the best of people is the greatest gift of all.</desc>
     <date>20251122</date>
     <audio>
       <stereo>stereo</stereo>
