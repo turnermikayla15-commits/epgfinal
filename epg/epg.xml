@@ -92,6 +92,10 @@
     <display-name lang="US">BET HD (Pacific)</display-name>
     <icon src=""/>
   </channel>
+  <channel id="464874">
+    <display-name lang="US">Scripps News</display-name>
+    <icon src=""/>
+  </channel>
   <channel id="464879">
     <display-name lang="US">ACC Network</display-name>
     <icon src=""/>
@@ -12435,6 +12439,542 @@
   <programme channel="464867" start="20260110110000 +0000" stop="20260111000000 +0000">
     <title lang="zh">When the Bough Breaks</title>
     <desc>Young, professional and successful, John and Laura (Regina Hall) Taylor desperately want to have a baby, but are unable to conceive. After exhausting all other options, the couple hire Anna, a beautiful young woman who agrees to become a surrogate mother for the Taylors. Everything seems fine until Anna starts to develop a dangerous fixation with John as the pregnancy moves further along. The Tayl</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108000000 +0000" stop="20260108010000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108010000 +0000" stop="20260108020000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108020000 +0000" stop="20260108030000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108030000 +0000" stop="20260108040000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108040000 +0000" stop="20260108050000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108050000 +0000" stop="20260108060000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108060000 +0000" stop="20260108070000 +0000">
+    <title lang="zh">Happening Now in America</title>
+    <desc>Follow what's happening across America with up-to-the minute details on the major events driving the day's top stories.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108070000 +0000" stop="20260108080000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108080000 +0000" stop="20260108083000 +0000">
+    <title lang="zh">Corrupt Crimes</title>
+    <desc>James Holmes is found guilty of murdering 12 people and injuring 70 more in a shooting at a Colorado movie theatre.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108083000 +0000" stop="20260108090000 +0000">
+    <title lang="zh">Corrupt Crimes</title>
+    <desc>A Florida billionaire ignores a stop sign, killing the young driver of another car; a celebrity publicist backs her SUV into a crowd of people and flees the scene.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108090000 +0000" stop="20260108093000 +0000">
+    <title lang="zh">Corrupt Crimes</title>
+    <desc>High school staffer Pamela Smart has a love affair with a student and convinces him to kill her husband.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108093000 +0000" stop="20260108100000 +0000">
+    <title lang="zh">Corrupt Crimes</title>
+    <desc>Los Angeles police are outgunned by bank robbers.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108100000 +0000" stop="20260108103000 +0000">
+    <title lang="zh">Corrupt Crimes</title>
+    <desc>Secrets come to light as police investigate Jeffrey Pyne in the beating death of his mother; Maurice Clarett turns from football to crime.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108103000 +0000" stop="20260108110000 +0000">
+    <title lang="zh">Corrupt Crimes</title>
+    <desc>John Hinkley Jr. shoots President Ronald Reagan, reportedly to gain the attention of a young Hollywood star; a lab worker derails the criminal justice system, resulting in freedom for convicted criminals.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108110000 +0000" stop="20260108120000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108120000 +0000" stop="20260108130000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108130000 +0000" stop="20260108140000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108140000 +0000" stop="20260108150000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108150000 +0000" stop="20260108160000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108160000 +0000" stop="20260108170000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108170000 +0000" stop="20260108180000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108180000 +0000" stop="20260108190000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108190000 +0000" stop="20260108200000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108200000 +0000" stop="20260108210000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108210000 +0000" stop="20260108220000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108220000 +0000" stop="20260108230000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260108230000 +0000" stop="20260109000000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260108</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109000000 +0000" stop="20260109010000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109010000 +0000" stop="20260109020000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109020000 +0000" stop="20260109030000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109030000 +0000" stop="20260109040000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109040000 +0000" stop="20260109050000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109050000 +0000" stop="20260109060000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109060000 +0000" stop="20260109070000 +0000">
+    <title lang="zh">Happening Now in America</title>
+    <desc>Follow what's happening across America with up-to-the minute details on the major events driving the day's top stories.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109070000 +0000" stop="20260109080000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109080000 +0000" stop="20260109090000 +0000">
+    <title lang="zh">Someone They Knew with Tamron Hall</title>
+    <desc>When the wife of a wealthy Florida real estate developer is found dead in her bathroom, two theories emerge; her supposedly loving husband may not have been so loving after all, or a completely different culprit.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109090000 +0000" stop="20260109100000 +0000">
+    <title lang="zh">Someone They Knew with Tamron Hall</title>
+    <desc>When Maggie Locascio is found brutally murdered in her home, everybody points to her estranged husband, Ed; but when Ed turns up with an airtight alibi, investigators follow a trail of evidence that leads them through the Locascio family.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109100000 +0000" stop="20260109110000 +0000">
+    <title lang="zh">Someone They Knew with Tamron Hall</title>
+    <desc>It's not easy to score a successful song in Nashville, this is called a bullet; sometimes what it takes is a little more than talent and a little less than legal; Kevin Hughes caught a different kind of bullet.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109110000 +0000" stop="20260109120000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109120000 +0000" stop="20260109130000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109130000 +0000" stop="20260109140000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109140000 +0000" stop="20260109150000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109150000 +0000" stop="20260109160000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109160000 +0000" stop="20260109170000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109170000 +0000" stop="20260109180000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109180000 +0000" stop="20260109190000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109190000 +0000" stop="20260109200000 +0000">
+    <title lang="zh">The National Report</title>
+    <desc>Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109200000 +0000" stop="20260109210000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109210000 +0000" stop="20260109220000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109220000 +0000" stop="20260109230000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260109230000 +0000" stop="20260110000000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110000000 +0000" stop="20260110010000 +0000">
+    <title lang="zh">Morning Rush</title>
+    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110010000 +0000" stop="20260110020000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110020000 +0000" stop="20260110030000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110030000 +0000" stop="20260110040000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110040000 +0000" stop="20260110050000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110050000 +0000" stop="20260110060000 +0000">
+    <title lang="zh">Scripps News On The Scene</title>
+    <desc>Each weekday, Scripps News reporters take you to breaking news and live events across the country, bringing you the news as it unfolds.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110060000 +0000" stop="20260110070000 +0000">
+    <title lang="zh">Happening Now in America</title>
+    <desc>Follow what's happening across America with up-to-the minute details on the major events driving the day's top stories.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110070000 +0000" stop="20260110080000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110080000 +0000" stop="20260110083000 +0000">
+    <title lang="zh">Caught On... Clips</title>
+    <desc>The wildest, wackiest, and most jaw-dropping videos. From dangerous severe weather, to heart-stopping close calls and adorable animal antics - all caught on camera.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110083000 +0000" stop="20260110090000 +0000">
+    <title lang="zh">Caught On... Clips</title>
+    <desc>The wildest, wackiest, and most jaw-dropping videos. From dangerous severe weather, to heart-stopping close calls and adorable animal antics - all caught on camera.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110090000 +0000" stop="20260110100000 +0000">
+    <title lang="zh">Interview With a Killer</title>
+    <desc>A Neo-Nazi turned Islamic jihadist shoots two of his roommates after an argument; in a combative interview with journalist David Scott, Devon Arthurs, now claiming to be remorseful, attempts to explain his descent into madness.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110100000 +0000" stop="20260110110000 +0000">
+    <title lang="zh">Interview With a Killer</title>
+    <desc>Rebecca Keller and Keri Murphy murdered Murphy's mother after she did not approve of their high school relationship; in her first TV interview ever, Keller explains to David Scott her role in the killing and even tries to justify why she did it.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110110000 +0000" stop="20260110120000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110120000 +0000" stop="20260110123000 +0000">
+    <title lang="zh">Caught On... Clips</title>
+    <desc>The wildest, wackiest, and most jaw-dropping videos. From dangerous severe weather, to heart-stopping close calls and adorable animal antics - all caught on camera.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110123000 +0000" stop="20260110130000 +0000">
+    <title lang="zh">Caught On... Clips</title>
+    <desc>The wildest, wackiest, and most jaw-dropping videos. From dangerous severe weather, to heart-stopping close calls and adorable animal antics - all caught on camera.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464874" start="20260110130000 +0000" stop="20260111000000 +0000">
+    <title lang="zh">Today as It Happened</title>
+    <desc>What happened today? Find out as Scripps News gets you up to speed on the day's events that everyone is talking about.</desc>
     <date>20260110</date>
     <audio>
       <stereo>stereo</stereo>
