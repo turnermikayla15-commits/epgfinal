@@ -24,6 +24,10 @@
     <display-name lang="US">AXS TV</display-name>
     <icon src=""/>
   </channel>
+  <channel id="464782">
+    <display-name lang="US">Univision Network HD</display-name>
+    <icon src=""/>
+  </channel>
   <channel id="464783">
     <display-name lang="US">Golf Channel HD</display-name>
     <icon src=""/>
@@ -142,6 +146,10 @@
   </channel>
   <channel id="464912">
     <display-name lang="US">NBA TV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="464918">
+    <display-name lang="US">UniMas HD (Pacific)</display-name>
     <icon src=""/>
   </channel>
   <channel id="464921">
@@ -3975,6 +3983,622 @@
   <programme channel="464771" start="20260111133000 +0000" stop="20260112000000 +0000">
     <title lang="zh">Rock Legends</title>
     <desc>The story of Green Day from their start as the band "Sweet Children" to the present.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109000000 +0000" stop="20260109010000 +0000">
+    <title lang="zh">Duelo de pasiones</title>
+    <desc>Álvaro revela un hecho del pasado a su hermana, mientras trata de explicar por qué es tan celoso y posesivo. Mientras tanto, Orlando sigue obsesionado con Alina y no se da por vencido.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109010000 +0000" stop="20260109013000 +0000">
+    <title lang="zh">Live: Noticiero Univision: Edición digital</title>
+    <desc>Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109013000 +0000" stop="20260109020000 +0000">
+    <title lang="zh">Vecinos</title>
+    <desc>Mientras que Germán tiene la tarea de sembrar un árbol, Benito hará un casting para interpretar al rey del pop. Silvia le anuncia a Luis que regresa, pero llegará acompañada.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109020000 +0000" stop="20260109030000 +0000">
+    <title lang="zh">Lo que la vida me robó</title>
+    <desc>Pedro alquila una casa para Nadia y Víctor, pero pone cámaras para espiarlos. José Luis se asusta al ver que Angélica no reacciona y la lleva al hospital. Alejandro tiene prohibidas las visitas en la cárcel y no dejan pasar a Montserrat y Rosario.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109030000 +0000" stop="20260109040000 +0000">
+    <title lang="zh">Live: ¡Siéntese quien pueda!</title>
+    <desc>Una serie de panelistas destacados del mundo de la prensa de espectáculos participan en un reality entre ellos mientras se desarrolla el programa.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109040000 +0000" stop="20260109050000 +0000">
+    <title lang="zh">Desiguales</title>
+    <desc>Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva única y multifacética sobre temas femeninos y de actualidad.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109050000 +0000" stop="20260109060000 +0000">
+    <title lang="zh">Live: El gordo y la flaca</title>
+    <desc>Chismes de celebridades y las últimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, músicos y celebridades.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109060000 +0000" stop="20260109070000 +0000">
+    <title lang="zh">Live: Primer impacto</title>
+    <desc>Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109070000 +0000" stop="20260109073000 +0000">
+    <title lang="zh">Noticiero Univision: Edición digital</title>
+    <desc>Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109073000 +0000" stop="20260109080000 +0000">
+    <title lang="zh">Live: Noticiero Univisión</title>
+    <desc>El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109080000 +0000" stop="20260109100000 +0000">
+    <title lang="zh">Papás por siempre</title>
+    <desc>Después de cinco años la aventura continúa y Tino y Aidé deben lidiar con su familia, que ahora es más grande. ¿Su vida será más fácil ahora que están juntos?</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109100000 +0000" stop="20260109110000 +0000">
+    <title lang="zh">Doménica Montero</title>
+    <desc>Doménica Montero es una reconocida empresaria, y es considerada una de las novias más codiciadas del país, pero el día de su boda, es plantada en el altar. Humillada, huye para refugiarse en la antigua hacienda de sus padres.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109110000 +0000" stop="20260109120000 +0000">
+    <title lang="zh">Monteverde</title>
+    <desc/>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109120000 +0000" stop="20260109123000 +0000">
+    <title lang="zh">Noticiero Univisión</title>
+    <desc>El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109123000 +0000" stop="20260109123500 +0000">
+    <title lang="zh">Sabor de mañana</title>
+    <desc>Un adelanto de lo que sucederá en "Despierta América", "El Gordo y La Flaca" y "Primer Impacto".</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109123500 +0000" stop="20260109130000 +0000">
+    <title lang="zh">Live: Noticiero Univision: Edición nocturna</title>
+    <desc>Un repaso de las noticias ocurridas hasta el final el día. Tiene la información completa de las noticias de último minuto y registra con las cámaras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el día.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109130000 +0000" stop="20260109140000 +0000">
+    <title lang="zh">Live: Contacto deportivo</title>
+    <desc>El destino obligado de los amantes del deporte para estar al día con las noticias más importantes y los partidos más destacados de todos los principales deportes.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109140000 +0000" stop="20260109150000 +0000">
+    <title lang="zh">¡Siéntese quien pueda!</title>
+    <desc>Una serie de panelistas destacados del mundo de la prensa de espectáculos participan en un reality entre ellos mientras se desarrolla el programa.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109150000 +0000" stop="20260109160000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Azucena trabaja en una agencia de modelos y, presionada por Roy, decide hacerse una lipoescultura a pesar de no necesitarla.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109160000 +0000" stop="20260109163000 +0000">
+    <title lang="zh">Vecinos</title>
+    <desc>El tanque de gas de Magdalena tiene una fuga y Germán trata de arreglarlo, pero empeora el problema y explota el tanque. Frankie convence a Pedro que se asocie con él para hacer películas.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109163000 +0000" stop="20260109170000 +0000">
+    <title lang="zh">La familia P. Luche</title>
+    <desc>Ludovico habla de su familia: cuando conoció a Federica, cuando se enteró de que iba a ser padre y de otros graciosos momentos que han marcado su vida.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109170000 +0000" stop="20260109180000 +0000">
+    <title lang="zh">El gordo y la flaca</title>
+    <desc>Chismes de celebridades y las últimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, músicos y celebridades.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109180000 +0000" stop="20260109183500 +0000">
+    <title lang="zh">Vecinos</title>
+    <desc>Mientras que Germán tiene la tarea de sembrar un árbol, Benito hará un casting para interpretar al rey del pop. Silvia le anuncia a Luis que regresa, pero llegará acompañada.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109183500 +0000" stop="20260109190000 +0000">
+    <title lang="zh">Noticiero Univision: Edición nocturna</title>
+    <desc>Un repaso de las noticias ocurridas hasta el final el día. Tiene la información completa de las noticias de último minuto y registra con las cámaras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el día.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109190000 +0000" stop="20260109200000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Tamara es una chica extrovertida que busca cualquier oportunidad para aprovecharse de su amiga Paola. Sin embargo, Rosario, la madre de Paola, intenta ayudar a su hija a no sufrir los abusos de Tamara.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260109200000 +0000" stop="20260110000000 +0000">
+    <title lang="zh">Live: ¡Despierta América!</title>
+    <desc>Revista matutina con noticias, temas de actualidad, reportajes de farándula, música e información práctica.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110000000 +0000" stop="20260110010000 +0000">
+    <title lang="zh">Duelo de pasiones</title>
+    <desc>Una discusión entre Thelma y Orlando hace que Alina caiga en una trampa. Además, Elías le cuenta a Soledad que el doctor Ricardo está de su lado y le ayudará a liberar a Mariana de Álvaro.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110010000 +0000" stop="20260110013000 +0000">
+    <title lang="zh">Live: Noticiero Univision: Edición digital</title>
+    <desc>Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110013000 +0000" stop="20260110020000 +0000">
+    <title lang="zh">Vecinos</title>
+    <desc>Los López Pérez podrían regresar al edificio después de haberse ido a Angangueo tras su desalojo. Por otro lado, ¿quién será el misterioso galán de Silvita? Además, un vecino regresa después de una larga temporada ausente.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110020000 +0000" stop="20260110030000 +0000">
+    <title lang="zh">Lo que la vida me robó</title>
+    <desc>Alejandro le pide a Joaquín que diga la verdad y él acepta para ganarse el perdón de Angélica. Pedro le pide a Joaquín que escriba una nota de suicidio y lo obliga a matarse para que no le pase nada a sus hijas.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110030000 +0000" stop="20260110040000 +0000">
+    <title lang="zh">Live: ¡Siéntese quien pueda!</title>
+    <desc>Una serie de panelistas destacados del mundo de la prensa de espectáculos participan en un reality entre ellos mientras se desarrolla el programa.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110040000 +0000" stop="20260110050000 +0000">
+    <title lang="zh">Desiguales</title>
+    <desc>Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva única y multifacética sobre temas femeninos y de actualidad.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110050000 +0000" stop="20260110060000 +0000">
+    <title lang="zh">Live: El gordo y la flaca</title>
+    <desc>Chismes de celebridades y las últimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, músicos y celebridades.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110060000 +0000" stop="20260110070000 +0000">
+    <title lang="zh">Live: Primer impacto</title>
+    <desc>Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110070000 +0000" stop="20260110073000 +0000">
+    <title lang="zh">Noticiero Univision: Edición digital</title>
+    <desc>Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110073000 +0000" stop="20260110080000 +0000">
+    <title lang="zh">Live: Noticiero Univisión</title>
+    <desc>El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110080000 +0000" stop="20260110100000 +0000">
+    <title lang="zh">Papás por siempre</title>
+    <desc>Prisma acude a recibir ayuda para mujeres violentadas. Clara Luz y Rudolf ganan la custodia permanente de Pipe. Yeni y Poncho tienen intimidad. Aidé da por terminada su relación con Bill. Iker le confiesa a Tino que Melina ha cambiado y le da miedo.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110100000 +0000" stop="20260110110000 +0000">
+    <title lang="zh">Doménica Montero</title>
+    <desc>Doménica Montero es una reconocida empresaria, y es considerada una de las novias más codiciadas del país, pero el día de su boda, es plantada en el altar. Humillada, huye para refugiarse en la antigua hacienda de sus padres.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110110000 +0000" stop="20260110120000 +0000">
+    <title lang="zh">Monteverde</title>
+    <desc>Monteverde queda marcado por historias de amor, amistad, intriga y esperanza de encontrar la felicidad.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110120000 +0000" stop="20260110123000 +0000">
+    <title lang="zh">Noticiero Univisión</title>
+    <desc>El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110123000 +0000" stop="20260110123500 +0000">
+    <title lang="zh">Sabor de mañana</title>
+    <desc>Un adelanto de lo que sucederá en "Despierta América", "El Gordo y La Flaca" y "Primer Impacto".</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110123500 +0000" stop="20260110130000 +0000">
+    <title lang="zh">Live: Noticiero Univision: Edición nocturna</title>
+    <desc>Un repaso de las noticias ocurridas hasta el final el día. Tiene la información completa de las noticias de último minuto y registra con las cámaras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el día.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110130000 +0000" stop="20260110140000 +0000">
+    <title lang="zh">Live: Contacto deportivo</title>
+    <desc>El destino obligado de los amantes del deporte para estar al día con las noticias más importantes y los partidos más destacados de todos los principales deportes.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110140000 +0000" stop="20260110150000 +0000">
+    <title lang="zh">¡Siéntese quien pueda!</title>
+    <desc>Una serie de panelistas destacados del mundo de la prensa de espectáculos participan en un reality entre ellos mientras se desarrolla el programa.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110150000 +0000" stop="20260110160000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Tamara es una chica extrovertida que busca cualquier oportunidad para aprovecharse de su amiga Paola. Sin embargo, Rosario, la madre de Paola, intenta ayudar a su hija a no sufrir los abusos de Tamara.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110160000 +0000" stop="20260110163000 +0000">
+    <title lang="zh">Vecinos</title>
+    <desc>Magdalena busca la manera de quedar bien con el jefe de su esposo en la cena. Magdalena confunde a un cobrador con el jefe de su esposo y lo atiende cordialmente.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110163000 +0000" stop="20260110170000 +0000">
+    <title lang="zh">La familia P. Luche</title>
+    <desc>Federica convence a Ludovico de que le contrate una sirvienta. Federica se quiere contratar a una mujer conservadora y gruñona, mientras que Ludovico pretende quedarse con una mujer de buen cuerpo aunque algo torpe.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110170000 +0000" stop="20260110180000 +0000">
+    <title lang="zh">El gordo y la flaca</title>
+    <desc>Chismes de celebridades y las últimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, músicos y celebridades.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110180000 +0000" stop="20260110183500 +0000">
+    <title lang="zh">Vecinos</title>
+    <desc>Los López Pérez podrían regresar al edificio después de haberse ido a Angangueo tras su desalojo. Por otro lado, ¿quién será el misterioso galán de Silvita? Además, un vecino regresa después de una larga temporada ausente.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110183500 +0000" stop="20260110190000 +0000">
+    <title lang="zh">Noticiero Univision: Edición nocturna</title>
+    <desc>Un repaso de las noticias ocurridas hasta el final el día. Tiene la información completa de las noticias de último minuto y registra con las cámaras desde el lugar de los hechos para que la audiencia quede bien informada antes de terminar el día.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110190000 +0000" stop="20260110193000 +0000">
+    <title lang="zh">Los González</title>
+    <desc>En un concurso de videojuegos Leo tendrá el mejor rival que se pueda tener, la abuela dará una dura pelea.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110193000 +0000" stop="20260110200000 +0000">
+    <title lang="zh">Los González</title>
+    <desc>Para Lucía las bromas se han convertido en algo diario, pero ella tiene que seguir estudiando, su padre no permitirá que esto pase.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110200000 +0000" stop="20260110203000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110203000 +0000" stop="20260110210000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110210000 +0000" stop="20260110213000 +0000">
+    <title lang="zh">Atención, atención</title>
+    <desc>Vera, La Pulga Viajera, viaja a Jamaica para poder encontrarse con su cantante favorito. Leen juntos el cuento de Las Hormiguettes.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110213000 +0000" stop="20260110220000 +0000">
+    <title lang="zh">Atención, atención</title>
+    <desc>Tapita enseña de donde provienen los alimentos. Se aprende a diferenciar las figuras geométricas.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110220000 +0000" stop="20260110223000 +0000">
+    <title lang="zh">Babar y las aventuras de Badou</title>
+    <desc>Badou y Chiku ayudan a Jake a escoger el día perfecto para su cumpleaños e intentar descubrir cuándo llegó el pequeño por primera vez a Celesteville.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110223000 +0000" stop="20260110230000 +0000">
+    <title lang="zh">Babar y las aventuras de Badou</title>
+    <desc>Mientras juegan a los piratas, Badou, Chiku y Munroe descubren una planta acuática que puede usarse como una tela colorida. Recolectan todas las que pueden hasta que Babar les advierte que las aves necesitan las plantas para construir sus nidos.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110230000 +0000" stop="20260110233000 +0000">
+    <title lang="zh">Franklin and Friends</title>
+    <desc>Franklin está emocionado de ser capitán de su nave espacial; Franklin y los Super Cluepers buscan a los Reyes que faltan.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260110233000 +0000" stop="20260111000000 +0000">
+    <title lang="zh">Franklin and Friends</title>
+    <desc>Franklin, Oso y Conejo encuentran una cápsula. Gracias a su exuberancia, Franklin arruina la pintura de Castor.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111000000 +0000" stop="20260111003000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111003000 +0000" stop="20260111010000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111010000 +0000" stop="20260111013000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111013000 +0000" stop="20260111020000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111020000 +0000" stop="20260111023000 +0000">
+    <title lang="zh">Operation Smile</title>
+    <desc>Operation Smile: transformando vidas y regalando sonrisas a los niños alrededor del mundo.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111023000 +0000" stop="20260111030000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111030000 +0000" stop="20260111040000 +0000">
+    <title lang="zh">Esta historia me suena, Vol. 6</title>
+    <desc>Valentina y Martín preparan la boda de su hija Sofia. Sin embargo, él recibe una noticia médica que cambia la vida de su la familia y modifica los planes que tenían.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111040000 +0000" stop="20260111050000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Ángel es un niño de cinco años y su padre no comprende que su educación lleva tiempo y quiere volverlo un hombre obligándolo a que actúe como tal.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111050000 +0000" stop="20260111060000 +0000">
+    <title lang="zh">Clarissima</title>
+    <desc>Clarissa Molina habla sin filtros de su historia con el humor que la caracteriza. También hay confesiones, entrevistas, consejos y mucha diversión.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111060000 +0000" stop="20260111070000 +0000">
+    <title lang="zh">Lo tomas o lo dejas</title>
+    <desc>Dulce hace su mejor esfuerzo para ganar la mayor cantidad de dinero posible, pues está decidida a abrir su propia heladería.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111070000 +0000" stop="20260111073000 +0000">
+    <title lang="zh">Nosotros los guapos</title>
+    <desc>Vítor y Albertano abren nuevas cuentas de redes sociales y compiten entre ellos para ver quién tiene más seguidores.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111073000 +0000" stop="20260111080000 +0000">
+    <title lang="zh">Live: Noticiero Univisión: Fin de semana</title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111080000 +0000" stop="20260111083000 +0000">
+    <title lang="zh">Live: Fútbol central</title>
+    <desc>El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111083000 +0000" stop="20260111110000 +0000">
+    <title lang="zh">Live: Fútbol Mexicano Primera División</title>
+    <desc>Fecha 1 del Torneo Clausura 2026 de la Liga MX. León se enfrenta a Cruz Azul. Desde el estadio León, en León, Guanajuato.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111110000 +0000" stop="20260111130000 +0000">
+    <title lang="zh">Live: Fútbol Mexicano Primera División</title>
+    <desc>Toda la acción de la jornada 1 del Torneo Clausura 2026 de la Liga MX. Desde el Estadio BBVA, en Guadalupe, Nuevo León. Se repite la semifinal del Apertura 2025 entre los Rayados y los Diablos Rojos, campeones vigentes.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111130000 +0000" stop="20260111133000 +0000">
+    <title lang="zh">Una familia de diez</title>
+    <desc>Una familia de diez personas vive en un apartamento de sólo dos cuartos, donde reina la locura.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464782" start="20260111133000 +0000" stop="20260112000000 +0000">
+    <title lang="zh">Live: Noticiero Univisión: Fin de semana</title>
+    <desc>La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
     <date>20260111</date>
     <audio>
       <stereo>stereo</stereo>
@@ -15591,6 +16215,526 @@
   <programme channel="464911" start="20260111135600 +0000" stop="20260112000000 +0000">
     <title lang="zh">Bubble Guppies</title>
     <desc>Molly, Gil and the Guppies must lead a baby dolphin named Buddy to the surprise birthday party his pod is throwing for him.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109000000 +0000" stop="20260109010000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Flor descubre que está embarazada y, al enterarse, su madre decide echarla de su casa. Por ello, acude a la casa de su amiga Magali, el padre de su amiga se encargará de hacerle incómoda la estadía.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109010000 +0000" stop="20260109013000 +0000">
+    <title lang="zh">El Chavo</title>
+    <desc>Paty felicita al Chavo con un beso.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109013000 +0000" stop="20260109020000 +0000">
+    <title lang="zh">El Chavo</title>
+    <desc>Quico y el Chavo juegan a los ladrones. Doña Florinda busca al señor Barriga porque tiene muchas goteras en su casa. El Chavo y Quico se tiran cubetadas de agua y sin querer mojan al señor Barriga y a doña Florinda.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109020000 +0000" stop="20260109030000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Estrella y Hugo, expareja, se reencuentran después de meses. Sin embargo, Hugo desarrolla una obsesión por Estrella. ¿Hasta dónde llegará Hugo para tener a Estrella a su lado?</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109030000 +0000" stop="20260109040000 +0000">
+    <title lang="zh">Cañaveral de pasiones</title>
+    <desc>Juan de Dios llega a la iglesia y escucha a Socorro decir que es su madre. Pablo le dice a Julia que viajará a la Ciudad de México con Gina por el accidente que tuvo. Josefina descubre que Gina mintió, se da cuenta que sí puede caminar.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109040000 +0000" stop="20260109060000 +0000">
+    <title lang="zh">Yo no creo en los hombres</title>
+    <desc>María Dolores es mujer luchadora que trata de salir adelante e intenta hacerse responsable de su familia tras la muerte de su padre. Luego de ser engañada por un hombre, María Dolores buscará venganza.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109060000 +0000" stop="20260109080000 +0000">
+    <title lang="zh">Al diablo con los guapos</title>
+    <desc>Milagros y Alejandro se conocen y sienten una atracción inmensa. Muchos se oponen a su relación, pero lo que todos ignoran es que son medio hermanos.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109080000 +0000" stop="20260109090000 +0000">
+    <title lang="zh">Sueño de Amor</title>
+    <desc>Luego de todas las situaciones peligrosas y difíciles que vivieron Ricardo y Cristina, ambos deciden darse una oportunidad y abrir su corazón nuevamente.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109090000 +0000" stop="20260109100000 +0000">
+    <title lang="zh">Miss XV</title>
+    <desc>Nat encuentra a Eddy en la escuela. Renata y Alexis planean hacerles la vida imposible a Niko y a Eddy.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109100000 +0000" stop="20260109110000 +0000">
+    <title lang="zh">Minas de pasión</title>
+    <desc>Roberta le anuncia a Emilia que tiene la custodia legal de Nicolás. Emilia recibe como sentencia 40 años en prisión. Leonardo le hace una amenaza a Roberta. Leonardo es víctima de un atentado. Emilia despierta en un hospital psiquiátrico.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109110000 +0000" stop="20260109120000 +0000">
+    <title lang="zh">¿Quién caerá?</title>
+    <desc>Divertido programa de concursos en el que los participantes deben de mostrar sus conocimientos de cultura en general para evitar caer del escenario.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109120000 +0000" stop="20260109140000 +0000">
+    <title lang="zh">Fracture</title>
+    <desc>Un abogado juega al gato y al ratón con un sospechoso que intentó matar a su esposa, pero perdió por un tecnicismo.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109140000 +0000" stop="20260109150000 +0000">
+    <title lang="zh">C.D.I. Código de investigación</title>
+    <desc>Se exploran las historias detrás de crímenes impactantes que conmocionaron a la opinión pública. Investigaciones a fondo, análisis de expertos, testimonios y tecnología de vanguardia para revelar la verdad.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109150000 +0000" stop="20260109160000 +0000">
+    <title lang="zh">¿Quién caerá?</title>
+    <desc>Divertido programa de concursos en el que los participantes deben de mostrar sus conocimientos de cultura en general para evitar caer del escenario.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109160000 +0000" stop="20260109170000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Juliana se va a Los Ángeles, California, pero después de 15 años debe regresar a México. Pilar, la hija de Adolfa, buscará vengar a su madre contra Juliana.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109170000 +0000" stop="20260109180000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Un joven siente curiosidad por saber de dónde viene y quién es su familia biológica. Sin embargo, su madre adoptiva teme perderlo.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109180000 +0000" stop="20260109190000 +0000">
+    <title lang="zh">Cañaveral de pasiones</title>
+    <desc>Juan de Dios llega a la iglesia y escucha a Socorro decir que es su madre. Pablo le dice a Julia que viajará a la Ciudad de México con Gina por el accidente que tuvo. Josefina descubre que Gina mintió, se da cuenta que sí puede caminar.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109190000 +0000" stop="20260109193000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109193000 +0000" stop="20260109200000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109200000 +0000" stop="20260109203000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109203000 +0000" stop="20260109210000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109210000 +0000" stop="20260109220000 +0000">
+    <title lang="zh">Veredicto final</title>
+    <desc>Los casos más controversiales y las disputas de las familias latinas que se resolverán con base a las leyes.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109220000 +0000" stop="20260109223000 +0000">
+    <title lang="zh">El Chapulín Colorado</title>
+    <desc>Ramón está muy asustado porque un bandido idéntico a él está en los alrededores. Para salvarse, el hombre recurre a la ayuda del Chapulín Colorado.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109223000 +0000" stop="20260109230000 +0000">
+    <title lang="zh">El Chapulín Colorado</title>
+    <desc>El comisario de la comarca quiere meter a la cárcel a Chinpandolfo, el hombre de las cavernas que ha estado más de 20 000 años bajo la nieve. Los que están a cargo de él, piden ayuda al Chapulín Colorado para que lo eduque y le enseñe buenos modales.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260109230000 +0000" stop="20260110000000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Melissa se dedica a recaudar fondos para una fundación, pero sus hermanos solo buscarán sacar provecho de ello para beneficio propio.</desc>
+    <date>20260109</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110000000 +0000" stop="20260110010000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Martina vive con Hilda, su madre adoptiva. Sin embargo, ahora siente curiosidad por conocer a su verdadera madre, así que decide contactar a Edna.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110010000 +0000" stop="20260110013000 +0000">
+    <title lang="zh">El Chavo</title>
+    <desc>Don Ramón le pega al Chavo, el profesor Jirafales lo ve y lo regaña. Los niños estudian en casa de doña Florinda y el profesor Jirafales comienza a preguntarles sobre historia.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110013000 +0000" stop="20260110020000 +0000">
+    <title lang="zh">El Chavo</title>
+    <desc>Doña Florinda le prohíbe a Quico salir a jugar, él muy enojado patea una pelota y golpea a la Chilindrina. Don Ramón consigue trabajo como ropavejero. Doña Florinda le dice a Quico que si se porta mal el ropavejero se lo llevará.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110020000 +0000" stop="20260110030000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Javier enfrenta un dilema ya que sus padres están acusados de fraude fiscal. Se ha quedado solo mientras ellos resuelven sus problemas. ¿Qué sucederá con Javier y sus estudios ahora que está solo?</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110030000 +0000" stop="20260110040000 +0000">
+    <title lang="zh">Cañaveral de pasiones</title>
+    <desc>Socorro le pide dinero a Josefina y la amenaza con decirle a Pablo que Juan de Dios es su medio hermano. Gina logra convencer a Pablo para ver a un especialista en la ciudad. Mireya le cuenta a Pablo que Julia lo ama y lo dejó por Gina.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110040000 +0000" stop="20260110060000 +0000">
+    <title lang="zh">Yo no creo en los hombres</title>
+    <desc>María Dolores es mujer luchadora que trata de salir adelante e intenta hacerse responsable de su familia tras la muerte de su padre. Luego de ser engañada por un hombre, María Dolores buscará venganza.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110060000 +0000" stop="20260110080000 +0000">
+    <title lang="zh">Al diablo con los guapos</title>
+    <desc>Milagros y Alejandro se conocen y sienten una atracción inmensa. Muchos se oponen a su relación, pero lo que todos ignoran es que son medio hermanos.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110080000 +0000" stop="20260110090000 +0000">
+    <title lang="zh">Sueño de Amor</title>
+    <desc>Tracy se entera que Ricardo ahora tiene un nuevo amor y está dispuesta a todo con tal de separarlos, así que visita a Cristina y la amenaza de muerte.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110090000 +0000" stop="20260110100000 +0000">
+    <title lang="zh">Miss XV</title>
+    <desc>Niko le pide a ayuda a Vale para que lo expulsen del colegio.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110100000 +0000" stop="20260110110000 +0000">
+    <title lang="zh">Minas de pasión</title>
+    <desc>Emilia es internada en un manicomio por órdenes del juez e intentará escapar de ahí. Por otro lado, Joaquina enfrenta a Roberta y le grita a la cara que es una asesina.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110110000 +0000" stop="20260110120000 +0000">
+    <title lang="zh">¿Quién caerá?</title>
+    <desc>Divertido programa de concursos en el que los participantes deben de mostrar sus conocimientos de cultura en general para evitar caer del escenario.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110120000 +0000" stop="20260110140000 +0000">
+    <title lang="zh">Awake</title>
+    <desc>Un joven se somete a una cirugía, despierta durante el procedimiento pero queda paralizado, sin poder avisarles a los médicos acerca de su estado. Mientras tanto, su esposa se enfrenta a sus propios demonios mientras su marido está sufriendo una dura prueba.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110140000 +0000" stop="20260110150000 +0000">
+    <title lang="zh">C.D.I. Código de investigación</title>
+    <desc>Se exploran las historias detrás de crímenes impactantes que conmocionaron a la opinión pública. Investigaciones a fondo, análisis de expertos, testimonios y tecnología de vanguardia para revelar la verdad.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110150000 +0000" stop="20260110160000 +0000">
+    <title lang="zh">¿Quién caerá?</title>
+    <desc>Divertido programa de concursos en el que los participantes deben de mostrar sus conocimientos de cultura en general para evitar caer del escenario.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110160000 +0000" stop="20260110170000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Nancy y Antonio son pareja, pero el padre de Nancy es un secuestrador y ella no desea seguir sus pasos. Joaquín, el padre de Nancy, intenta involucrar a Antonio en sus negocios ilícitos.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110170000 +0000" stop="20260110180000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Después de dejar a sus hijos, un padre conoce a una joven, de quien se vuelve su amigo. Además, él tiene una fortuna que prefiere gastar en las personas necesitadas, y no en los avaros de sus hijos.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110180000 +0000" stop="20260110190000 +0000">
+    <title lang="zh">Cañaveral de pasiones</title>
+    <desc>Socorro le pide dinero a Josefina y la amenaza con decirle a Pablo que Juan de Dios es su medio hermano. Gina logra convencer a Pablo para ver a un especialista en la ciudad. Mireya le cuenta a Pablo que Julia lo ama y lo dejó por Gina.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110190000 +0000" stop="20260110193000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110193000 +0000" stop="20260110200000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110200000 +0000" stop="20260110203000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110203000 +0000" stop="20260110210000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110210000 +0000" stop="20260110220000 +0000">
+    <title lang="zh">Veredicto final</title>
+    <desc>Los casos más controversiales y las disputas de las familias latinas que se resolverán con base a las leyes.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110220000 +0000" stop="20260110223000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110223000 +0000" stop="20260110230000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110230000 +0000" stop="20260110233000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260110233000 +0000" stop="20260111000000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260110</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111000000 +0000" stop="20260111003000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111003000 +0000" stop="20260111010000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111010000 +0000" stop="20260111013000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111013000 +0000" stop="20260111020000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111020000 +0000" stop="20260111023000 +0000">
+    <title lang="zh">El Chavo</title>
+    <desc>Las vicisitudes del Chavo, un niño de 8 años que es huérfano y quien vive en un barril ubicado dentro de una vecindad, y que junto a Quico, la Chilindrina, Ñoño y la Popis experimentan una serie de enredos y graciosas confusiones.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111023000 +0000" stop="20260111030000 +0000">
+    <title lang="zh">El Chavo</title>
+    <desc>Quico comparte algunos globos con el Chavo, pero se pierden y los amigos terminan peleándose por ello.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111030000 +0000" stop="20260111033000 +0000">
+    <title lang="zh">El Chapulín Colorado</title>
+    <desc>Una señora trata de vender un traje de muerto a un ropavejero.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111033000 +0000" stop="20260111040000 +0000">
+    <title lang="zh">El Chapulín Colorado</title>
+    <desc>El Cuajinais amenaza al licenciado Valdez con matarlo si lo embarga. El licenciado, su secretaria y el Chapulín son encerrados y tiene 15 minutos para salir antes de que explote la bomba.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111040000 +0000" stop="20260111050000 +0000">
+    <title lang="zh">Como dice el dicho</title>
+    <desc>Citlali, reconocida por su excelente sazón, consigue una oportunidad para trabajar con el gran chef Gerardo Pizá. No obstante, la envidia y los celos podrían obstaculizar su camino.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111050000 +0000" stop="20260111063000 +0000">
+    <title lang="zh">Fast and Fierce: Death Race</title>
+    <desc>Jack se dirige a recoger un premio en efectivo de una carrera de autos ilegal. En el camino, se encuentra con una mujer desesperada que huye de su novio gánster que dirige la competencia.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111063000 +0000" stop="20260111083000 +0000">
+    <title lang="zh">Detention</title>
+    <desc>Sam Decker, un antiguo soldado, ejerce como profesor en la escuela secundaria de un barrio conflictivo. Un día, una banda de delincuentes asalta el edificio, pero los criminales no esperaban encontrarse a alguien como Decker enfrente.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111083000 +0000" stop="20260111103000 +0000">
+    <title lang="zh">Cold Blood Legacy</title>
+    <desc>Henry es un legendario asesino a sueldo que vive aislado en una cabaña en las Montañas Rocosas. Un día, una mujer herida aparece en la puerta de su casa. Para salvarla, el sicario tendrá que poner en riesgo su propia vida.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111103000 +0000" stop="20260111123000 +0000">
+    <title lang="zh">Transit</title>
+    <desc>Unos delincuentes intentan recuperar el dinero que robaron de un carro familiar.</desc>
+    <date>20260111</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464918" start="20260111123000 +0000" stop="20260112000000 +0000">
+    <title lang="zh">The Little Things</title>
+    <desc>Un sheriff y un detective de homicidios colaboran para dar caza a un astuto asesino en Los Ángeles. Mientras rastrean al culpable, el pasado de uno de ellos comienza a salir a la luz y puede poner en peligro la investigación.</desc>
     <date>20260111</date>
     <audio>
       <stereo>stereo</stereo>
