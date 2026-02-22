@@ -76,6 +76,10 @@
     <display-name lang="US">HSN2</display-name>
     <icon src=""/>
   </channel>
+  <channel id="464889">
+    <display-name lang="US">MS NOW HD</display-name>
+    <icon src=""/>
+  </channel>
   <channel id="464895">
     <display-name lang="US">American Heroes Channel HD</display-name>
     <icon src=""/>
@@ -52535,6 +52539,318 @@
   <programme channel="465400" start="20260224122500 +0000" stop="20260225000000 +0000">
     <title lang="zh">The Pope's Exorcist</title>
     <desc>Father Gabriele Amorth, chief exorcist of the Vatican, uncovers a centuries-old conspiracy while investigating a young boy's terrifying possession.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222020000 +0000" stop="20260222050000 +0000">
+    <title lang="zh">Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222050000 +0000" stop="20260222060000 +0000">
+    <title lang="zh">The Beat: Weekend</title>
+    <desc>Highlights from "The Beat With Ari Melber.".</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222060000 +0000" stop="20260222070000 +0000">
+    <title lang="zh">Live: PoliticsNation</title>
+    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222070000 +0000" stop="20260222100000 +0000">
+    <title lang="zh">Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222100000 +0000" stop="20260222110000 +0000">
+    <title lang="zh">The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222110000 +0000" stop="20260222120000 +0000">
+    <title lang="zh">The Beat: Weekend</title>
+    <desc>Highlights from "The Beat With Ari Melber.".</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222120000 +0000" stop="20260222130000 +0000">
+    <title lang="zh">The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222130000 +0000" stop="20260222140000 +0000">
+    <title lang="zh">The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222140000 +0000" stop="20260222150000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>After Johnny Altinger vanished, the trail of clues led investigators to a young director; detectives feared the case was a hoax staged by a master storyteller.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222150000 +0000" stop="20260222160000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>Detectives worry that the case is a hoax staged by a master storyteller after Johnny Altinger vanishes and the trail of clues leads investigators to a young director.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222160000 +0000" stop="20260222170000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a hard-charging boss in Arizona is shot to death, police uncover a complex web of bruised egos in his professional life and a trail of broken hearts in his personal life.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222170000 +0000" stop="20260222180000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a mother's corpse is discovered at the Kentucky warehouse where she worked, several employees are investigated; authorities try to connect their prime suspect to the crime.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222180000 +0000" stop="20260222190000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A murder case considered closed by North Dakota detectives is suddenly reopened when a confidential informant comes forward with a tip about an unlikely suspect.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222190000 +0000" stop="20260222200000 +0000">
+    <title lang="zh">Morning Joe: Weekend</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222200000 +0000" stop="20260222230000 +0000">
+    <title lang="zh">Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260222230000 +0000" stop="20260223020000 +0000">
+    <title lang="zh">Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <date>20260222</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223020000 +0000" stop="20260223050000 +0000">
+    <title lang="zh">Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223050000 +0000" stop="20260223060000 +0000">
+    <title lang="zh">Deadline: White House: Weekend</title>
+    <desc>Highlights from "Deadline: White House.".</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223060000 +0000" stop="20260223070000 +0000">
+    <title lang="zh">Live: PoliticsNation</title>
+    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223070000 +0000" stop="20260223100000 +0000">
+    <title lang="zh">Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223100000 +0000" stop="20260223110000 +0000">
+    <title lang="zh">The Briefing with Jen Psaki: Weekend</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223110000 +0000" stop="20260223130000 +0000">
+    <title lang="zh">The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223130000 +0000" stop="20260223140000 +0000">
+    <title lang="zh">Deadline: White House: Weekend</title>
+    <desc>Highlights from "Deadline: White House.".</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223140000 +0000" stop="20260223150000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A popular high school student is found murdered in her bed; two students help police solve the case.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223150000 +0000" stop="20260223160000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A mother of two who vanishes during a storm turns out to be a victim of something sinister.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223160000 +0000" stop="20260223170000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The homicide of private first class soldier and young mother Karlyn Ramirez; a glimpse into the FBI's crime lab and an in-depth look at how multiple agencies uncovered a plot that spanned several states and prompted suspicions of espionage.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223170000 +0000" stop="20260223180000 +0000">
+    <title lang="zh">The Briefing with Jen Psaki: Weekend</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223180000 +0000" stop="20260223190000 +0000">
+    <title lang="zh">Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223190000 +0000" stop="20260223230000 +0000">
+    <title lang="zh">Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260223230000 +0000" stop="20260224010000 +0000">
+    <title lang="zh">Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>20260223</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224010000 +0000" stop="20260224030000 +0000">
+    <title lang="zh">Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224030000 +0000" stop="20260224050000 +0000">
+    <title lang="zh">Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224050000 +0000" stop="20260224070000 +0000">
+    <title lang="zh">Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224070000 +0000" stop="20260224080000 +0000">
+    <title lang="zh">Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224080000 +0000" stop="20260224100000 +0000">
+    <title lang="zh">Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224100000 +0000" stop="20260224110000 +0000">
+    <title lang="zh">Live: The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224110000 +0000" stop="20260224120000 +0000">
+    <title lang="zh">Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224120000 +0000" stop="20260224130000 +0000">
+    <title lang="zh">Live: The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <date>20260224</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464889" start="20260224130000 +0000" stop="20260225000000 +0000">
+    <title lang="zh">The Rachel Maddow Show</title>
+    <desc>Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
     <date>20260224</date>
     <audio>
       <stereo>stereo</stereo>
