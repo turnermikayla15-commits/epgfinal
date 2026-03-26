@@ -108,6 +108,10 @@
     <display-name lang="US">NBA TV HD</display-name>
     <icon src=""/>
   </channel>
+  <channel id="464922">
+    <display-name lang="US">Comedy Central HD</display-name>
+    <icon src=""/>
+  </channel>
   <channel id="464925">
     <display-name lang="US">PBS KIDS HD</display-name>
     <icon src=""/>
@@ -13939,6 +13943,966 @@
   <programme channel="464912" start="20260327123000 +0000" stop="20260328000000 +0000">
     <title lang="zh">NBA Action</title>
     <desc>Featuring weekly highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325000000 +0000" stop="20260325003000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>A vigilante rises from the trash and attempts to wipe out crime in the town of South Park.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325003000 +0000" stop="20260325010000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Randy steps forward with a solution to fix the desperate state of the economy.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325010000 +0000" stop="20260325013000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Someone plays an April Fool's joke on the boys.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325013000 +0000" stop="20260325020000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The kids come up with the funniest joke of all time while helping Jimmy with his comedy routine.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325020000 +0000" stop="20260325023000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Randy comes up with a plan to help Stan win the Pinewood Derby.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325023000 +0000" stop="20260325030000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman dreams of living the life of a pirate.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325030000 +0000" stop="20260325033000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Stewie takes drastic measures when he thinks he is diagnosed with terminal cooties; Peter becomes infatuated with Bonnie's cooking.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325033000 +0000" stop="20260325040000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Lois and her father attend the funeral of Lois' childhood nanny; Peter and the rest of the family turn Pewterschmidt mansion into a hotel.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325040000 +0000" stop="20260325043000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>A new boss quells Peter's favorite part about work: office birthdays; Stewie is put in detention and comes out a ruffian.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325043000 +0000" stop="20260325050000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>In noir-style, Peter/Mac investigates the disappearance of Meg/Sister Megan.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325050000 +0000" stop="20260325053000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>When Mayor West's nativity scene is ruined, Brian is seen as the prime suspect.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325053000 +0000" stop="20260325060000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>An accident leaves Peter with a high-pitched voice, so Jesus coaches him into fending off the choir boys; Stewie is attracted to Lois' new masculine physique.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325060000 +0000" stop="20260325063000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>At odds with Peter, Lois takes Quagmire to her high school reunion; the rest of the family must cover up the death of a pizza delivery man.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325063000 +0000" stop="20260325070000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter hires the town's new lawyer, Brick Baker, to represent him in litigation against his new neighbor; Brian and Stewie become lobstermen and save Rupert from the perils of the deep.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325070000 +0000" stop="20260325073000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>The Griffins tell their own versions of three HBO shows: "Game of Thrones," "Succession" and "Big Little Lies.".</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325073000 +0000" stop="20260325080000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Meg is invigorated by her new role as a getaway driver; Quagmire can't rid himself of the hiccups and implores Peter to kill him.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325080000 +0000" stop="20260325083000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>After Brian sustains an injury, Lois gets addicted to his painkillers; Cleveland refurbishes Peter's ping-pong table, which becomes popular in the neighborhood.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325083000 +0000" stop="20260325090000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>When Lois' piano student, Alana, comes to work for the Griffins, Lois is initially glad for the help; she realizes Alana's intentions are more sinister than she thought.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325090000 +0000" stop="20260325093000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter and Chris take a road trip to Canada to prove the existence of Chris' girlfriend; Lois and Meg compete for the attention of a handsome handyman.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325093000 +0000" stop="20260325100000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter attends a business conference in Atlantic City with Preston; Stewie helps Chris prepare for his role in Adam West High School's rendition of "Romeo and Juliet.".</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325100000 +0000" stop="20260325103000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>The Griffins perform a retelling of three Oscar-winning stories: "Silence of the Lambs," "American Beauty" and "Forrest Gump.".</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325103000 +0000" stop="20260325110000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Resolved to enjoy a family movie night, the Griffins take a road trip to Bend, Ore., to rent a VHS from the last Blockbuster in existence.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325110000 +0000" stop="20260325113500 +0000">
+    <title lang="zh">The Daily Show</title>
+    <desc>A satirical look at news, trends, pop culture, current events, politics, sports and entertainment.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325113500 +0000" stop="20260325120200 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter hires the town's new lawyer, Brick Baker, to represent him in litigation against his new neighbor; Brian and Stewie become lobstermen and save Rupert from the perils of the deep.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325120200 +0000" stop="20260325123000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>The Griffins tell their own versions of three HBO shows: "Game of Thrones," "Succession" and "Big Little Lies.".</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325123000 +0000" stop="20260325130000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Meg is invigorated by her new role as a getaway driver; Quagmire can't rid himself of the hiccups and implores Peter to kill him.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325130000 +0000" stop="20260325133000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>After Brian sustains an injury, Lois gets addicted to his painkillers; Cleveland refurbishes Peter's ping-pong table, which becomes popular in the neighborhood.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325133000 +0000" stop="20260325140000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Illegal activity is occurring in the basement of City Wok.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325140000 +0000" stop="20260325143000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kyle just wants to play video games with his little brother, Ike, but when Ike doesn't want to play with him anymore, Kyle is afraid that the next generation is passing him by.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325143000 +0000" stop="20260325150000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartmaan Bra is trending as the country prepares to watch the biggest holiday spectacular ever.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325150000 +0000" stop="20260325153000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys express their high respect for Caitlyn Jenner.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325153000 +0000" stop="20260325160000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Garrison decides he wants to build a wall to keep out all of the undocumented immigrants.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325160000 +0000" stop="20260325163000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>With the town of South Park gentrifying, Kenny feels it is time to get a job.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325163000 +0000" stop="20260325170000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman considers himself the top online restaurant reviewer in South Park.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325170000 +0000" stop="20260325173000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman becomes a victim of body-shaming.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325173000 +0000" stop="20260325180000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The Asian girls in school are drawing pictures of Tweek and Craig.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325180000 +0000" stop="20260325183000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kyle brings in professional ghost hunters to help save his little brother from paranormal forces.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325183000 +0000" stop="20260325190000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Butters is determined to get his first kiss so his friends won't make fun of him.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325190000 +0000" stop="20260325193000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys sign up for the school wrestling club in an effort to become professional wrestlers.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325193000 +0000" stop="20260325200000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Stan's trip to the Denver Aquarium is ruined when the Japanese begin killing all of the world's dolphins and whales.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325200000 +0000" stop="20260325203000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys fight back against the obnoxious motorcycle riders that are disrupting everyone in South Park.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325203000 +0000" stop="20260325210000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When Cartman is chosen to do the morning announcements at South Park Elementary, he uses the opportunity to target the Student Body President, Wendy Testaburger.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325210000 +0000" stop="20260325213500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Things turn deadly when the boys spend a fun-filled day at the water park.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325213500 +0000" stop="20260325221000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Some of the boys have a sex-addiction problem.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325221000 +0000" stop="20260325224500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys read a controversial book that inspires them to write one of their own.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325224500 +0000" stop="20260325231500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman's favorite restaurant shuts down, and its replacement is a store that sells medicinal marijuana.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325231500 +0000" stop="20260325235000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kyle requests the wrong person as a friend on Facebook and all of his friends start deserting him.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260325235000 +0000" stop="20260326002500 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Jimmy and Timmy go to camp with their friends.</desc>
+    <date>20260325</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326002500 +0000" stop="20260326010000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman dreams of being a NASCAR driver and he is willing to do whatever it takes to make it happen.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326010000 +0000" stop="20260326013000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>New Jersey is taking over the nation one state at a time, Randy and the boys take a stand as the Jerseyites approach South Park.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326013000 +0000" stop="20260326020000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When Stan is sent to the school counselor because he's holding on to an obscene number of useless possessions, he realizes that Mr. Mackey had a hoarding disorder too.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326020000 +0000" stop="20260326023000 +0000">
+    <title lang="zh">Digman!</title>
+    <desc>While searching for Amelia Earhart's plane, Rip and the gang find themselves taken aboard a floating airship in the sky, where Swooper finds a great new opportunity; Agatha finds romance; Rip and Saltine find a lot of trouble.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326023000 +0000" stop="20260326030000 +0000">
+    <title lang="zh">Digman!</title>
+    <desc>Rip must go undercover to find Shakespeare's "Lost Sonnet," a poem so romantic that hearing it makes people orgasm; Rip finds himself under the spell of a charismatic actor and he will either stick to the mission or get in too deep.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326030000 +0000" stop="20260326033000 +0000">
+    <title lang="zh">Digman!</title>
+    <desc>When Rip gets a hot lead on the Holy Grail, he heads off by himself in search of a mysterious realm; Saltine reluctantly teams up with Zane to track down Rip and return him to safety.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326033000 +0000" stop="20260326040000 +0000">
+    <title lang="zh">Digman!</title>
+    <desc>The Grand Opening of Quail Eegan's new museum arrives, and Rip Digman will stop at nothing to infiltrate it; Saltine delves into the seedy underbelly of the Arky world in order to learn the truth about a dangerous artifact.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326040000 +0000" stop="20260326043000 +0000">
+    <title lang="zh">Digman!</title>
+    <desc>Rip and Saltine take the Antichrist on a worldwide journey through Rip and Bella's past in an attempt to exorcize the demon from Bella's body; Quail joins a shadowy organization of museum owners, but it is unclear what they want.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326043000 +0000" stop="20260326050000 +0000">
+    <title lang="zh">Digman!</title>
+    <desc>When Rip and Saltine uncover a global conspiracy, the Titanic Museum will stop at nothing to prevent the truth from getting out; Rip must turn to the late-night talk show host Chortles Collins.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326050000 +0000" stop="20260326053000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>When Lois' piano student, Alana, comes to work for the Griffins, Lois is initially glad for the help; she realizes Alana's intentions are more sinister than she thought.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326053000 +0000" stop="20260326060000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter and Chris take a road trip to Canada to prove the existence of Chris' girlfriend; Lois and Meg compete for the attention of a handsome handyman.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326060000 +0000" stop="20260326063000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter attends a business conference in Atlantic City with Preston; Stewie helps Chris prepare for his role in Adam West High School's rendition of "Romeo and Juliet.".</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326063000 +0000" stop="20260326070000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>The Griffins perform a retelling of three Oscar-winning stories: "Silence of the Lambs," "American Beauty" and "Forrest Gump.".</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326070000 +0000" stop="20260326073000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Resolved to enjoy a family movie night, the Griffins take a road trip to Bend, Ore., to rent a VHS from the last Blockbuster in existence.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326073000 +0000" stop="20260326080000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Joe accidentally sees Lois naked, leading to a reinvigoration of his sex life with Bonnie; Stewie is gifted an electric SUV and quickly embodies the "Range Rover" lifestyle.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326080000 +0000" stop="20260326083000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Lois hypnotizes Peter into satisfying her sexual proclivities; Stewie renovates his treehouse in an attempt to win over Brian and Chris.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326083000 +0000" stop="20260326090000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Cleveland is fired as a mailman after a mishap, but flourishes in his new job at the brewery.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326090000 +0000" stop="20260326093000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter makes a hologram of himself to get out of menial household duties.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326093000 +0000" stop="20260326100000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>During a game of hide-and-seek, Stewie takes refuge in Quagmire's suitcase, only to wind up in Paris; Peter and Lois take a getaway to Vermont, where Lois is intent on breaking Bonnie's Instagram likes record.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326100000 +0000" stop="20260326103000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Stewie finds himself in public disgrace after a popstar unleashes her fan base on him for a benign comment; Peter gets lap band surgery and enjoys the merriment of excess skin.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326103000 +0000" stop="20260326110000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter and Chris finish last in a "Generation Gap" game at a carnival, forcing them to try to reconnect; Brian starts to date a carny, whom he can't break up with even after witnessing some of her crude habits.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326110000 +0000" stop="20260326113500 +0000">
+    <title lang="zh">The Daily Show</title>
+    <desc>A satirical look at news, trends, pop culture, current events, politics, sports and entertainment.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326113500 +0000" stop="20260326120200 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>When Lois' piano student, Alana, comes to work for the Griffins, Lois is initially glad for the help; she realizes Alana's intentions are more sinister than she thought.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326120200 +0000" stop="20260326123000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter and Chris take a road trip to Canada to prove the existence of Chris' girlfriend; Lois and Meg compete for the attention of a handsome handyman.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326123000 +0000" stop="20260326130000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Peter attends a business conference in Atlantic City with Preston; Stewie helps Chris prepare for his role in Adam West High School's rendition of "Romeo and Juliet.".</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326130000 +0000" stop="20260326133000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>The Griffins perform a retelling of three Oscar-winning stories: "Silence of the Lambs," "American Beauty" and "Forrest Gump.".</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326133000 +0000" stop="20260326140000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>South Park's citizens decide they no longer need a police force in town.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326140000 +0000" stop="20260326143000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Jimmy deals with PC Principal's beliefs.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326143000 +0000" stop="20260326150000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>When PC Principal goes missing, it's discovered he's disappeared with two of the 4th grade students.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326150000 +0000" stop="20260326153000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kyle chooses a dangerous alliance over his friendship with Stan.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326153000 +0000" stop="20260326160000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>An American icon gives the National Anthem a reboot.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326160000 +0000" stop="20260326163000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kyle's dad works hard to keep his identity as a troll a secret while he takes his online abuse global.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326163000 +0000" stop="20260326170000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Gerald basks in the thrill of media attention as he continues to troll everyone and anyone.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326170000 +0000" stop="20260326173000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys of South Park work together to stand up for their rights.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326173000 +0000" stop="20260326180000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Giant Douche wants to get out of the presidential race.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326180000 +0000" stop="20260326183000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Butters is diagnosed with a multiple personality disorder.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326183000 +0000" stop="20260326190000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Stan's world view and friendships begin to change right after his tenth birthday; Randy latches onto a new music genre in an attempt to fit in, causing problems in his marriage.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326190000 +0000" stop="20260326193000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman copes with Asperger's syndrome.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326193000 +0000" stop="20260326200000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>What begins as an innocent game between the boys turns serious when Cartman joins the U.S. Border Patrol.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326200000 +0000" stop="20260326203000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Secrets are being leaked on a new gossip website.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326203000 +0000" stop="20260326210000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>After Randy takes Sharon to see a hit musical, he becomes Broadway's biggest fan.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326210000 +0000" stop="20260326213000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>99 percent is ganging up on Cartman.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326213000 +0000" stop="20260326220000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys are getting close to discovering the truth about the first Thanksgiving.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326220000 +0000" stop="20260326223000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Kenny ends up in foster care after his parents are arrested.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326223000 +0000" stop="20260326230000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>An unspeakable tragedy occurs when one of the boys leaves the toilet seat up after using the bathroom.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326230000 +0000" stop="20260326233000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman starts his own gem shopping channel.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260326233000 +0000" stop="20260327000000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The kids are in danger when new trends start to evolve and shift at a rapid pace.</desc>
+    <date>20260326</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327000000 +0000" stop="20260327003000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>An unlikely bully makes Butters his victim.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327003000 +0000" stop="20260327010000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>The boys' ziplining adventure becomes a terrifying experience.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327010000 +0000" stop="20260327013000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>Cartman's racist behavior leads him to weave unexpected, Cupid-style magic; Kyle is unhappy with what the rumor mill says about him.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327013000 +0000" stop="20260327020000 +0000">
+    <title lang="zh">South Park</title>
+    <desc>South Park Elementary takes steps to address football's concussion crisis.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327020000 +0000" stop="20260327023000 +0000">
+    <title lang="zh">Seinfeld</title>
+    <desc>Elaine tries to convert a gay acquaintance (Robert Mailhouse) to heterosexuality; George and his date have secrets.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327023000 +0000" stop="20260327030000 +0000">
+    <title lang="zh">Seinfeld</title>
+    <desc>Jerry runs into trouble with Elaine's friend Wendy (Wendie Malick) after he decides to stop kissing acquaintances.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327030000 +0000" stop="20260327033000 +0000">
+    <title lang="zh">Seinfeld</title>
+    <desc>Jerry covers for a hostile doorman (Larry Miller) at Elaine's boss's (Ian Abercrombie) apartment; George's father is living with him.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327033000 +0000" stop="20260327040000 +0000">
+    <title lang="zh">Seinfeld</title>
+    <desc>Kramer's numbing experience at the dentist wins him a spot in a charity concert; George is accused of stealing.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327040000 +0000" stop="20260327043000 +0000">
+    <title lang="zh">Seinfeld</title>
+    <desc>Jerry is forced to flee his apartment when it must be bug-bombed for fleas, which prevents Elaine from getting a manuscript she needs.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327043000 +0000" stop="20260327050000 +0000">
+    <title lang="zh">Seinfeld</title>
+    <desc>Jerry feels betrayed when his method of pleasing a woman is used on Elaine by a friend (Patrick Warburton).</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327050000 +0000" stop="20260327053000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>The staff go into frantic speculation after accidentally discovering a list of their names in a notebook belonging to the mysterious new CEO.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327053000 +0000" stop="20260327060000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>The Scranton branch staff are challenged to double their sales; Andy decides to create an incentive program, but might end up regretting his promise.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327060000 +0000" stop="20260327063000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>After the warehouse employees win the lottery and quit their jobs, everyone in the office fantasizes about winning big; Darryl and Andy look for new warehouse workers.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327063000 +0000" stop="20260327070000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>When Andy decides to throw a garden party at Schrute Farms to impress Robert, Dwight researches how to be a good host; Andy's family makes him feel self conscious.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327070000 +0000" stop="20260327073500 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Erin tries to put on a Halloween party that will please both Andy and Robert California; Jim and Pam fight about the existence of ghosts; Dwight bonds with Robert California's son.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327073500 +0000" stop="20260327081000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Dwight installs a device in the office that will get everyone fired if they make too many errors; Gabe takes a liking to an employee at the warehouse.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327081000 +0000" stop="20260327084500 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Pam teams up with Dwight to prove that Jim thinks her temporary replacement is pretty; Robert California asks to join Andy, Darryl and Kevin's band.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327084500 +0000" stop="20260327092000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Andy tries to motivate the staff by taking them on a field trip to Gettysburg; Robert asks those who stay behind to come up with the company's next big idea.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327092000 +0000" stop="20260327095500 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Robert California brings his wife (Maura Tierney) into the office to find her a job; Dwight opens a gym in the building.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327095500 +0000" stop="20260327103000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Andy tries to make holiday wishes come true; Robert decides to drown his sorrows at the office party.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327103000 +0000" stop="20260327110000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Andy gets the office involved in a trivia contest; Dwight explores job opportunities at Sabre headquarters.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327110000 +0000" stop="20260327113500 +0000">
+    <title lang="zh">The Daily Show</title>
+    <desc>A satirical look at news, trends, pop culture, current events, politics, sports and entertainment.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327113500 +0000" stop="20260327120200 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Resolved to enjoy a family movie night, the Griffins take a road trip to Bend, Ore., to rent a VHS from the last Blockbuster in existence.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327120200 +0000" stop="20260327123000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Joe accidentally sees Lois naked, leading to a reinvigoration of his sex life with Bonnie; Stewie is gifted an electric SUV and quickly embodies the "Range Rover" lifestyle.</desc>
+    <date>20260327</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464922" start="20260327123000 +0000" stop="20260328000000 +0000">
+    <title lang="zh">Family Guy</title>
+    <desc>Lois hypnotizes Peter into satisfying her sexual proclivities; Stewie renovates his treehouse in an attempt to win over Brian and Chris.</desc>
     <date>20260327</date>
     <audio>
       <stereo>stereo</stereo>
